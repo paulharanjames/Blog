@@ -5,7 +5,3 @@ defaults:
   values:
     layout: default
     
-    nav:
-- page: about
-- page: books
-  
