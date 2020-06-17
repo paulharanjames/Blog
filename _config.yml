@@ -7,7 +7,5 @@ defaults:
     
     nav:
 - page: about
-  permalink: #about
-
 - page: books
-  permalink: #books
+  
