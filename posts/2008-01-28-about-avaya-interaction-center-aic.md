@@ -1,4 +1,5 @@
 
+<p>
 <div>
   Interaction Center is the Avaya Customer Interaction Suite software platform for enterprise class management of multimedia communications: voice, video, email, web chat, and IP telephony.
 </div>
