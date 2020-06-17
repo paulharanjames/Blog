@@ -1,7 +1,7 @@
 {% assign doclist = site.data.samplelist.docs | sort: 'title'  %}
 <ol>
 {% for item in doclist %}
-    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    <li><a href="{{ about.url }}">{{ books.title }}</a></li>
 {% endfor %}
 </ol>
 
