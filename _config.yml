@@ -4,3 +4,10 @@ defaults:
     path: ""
   values:
     layout: default
+    
+    nav:
+- page: about
+  permalink: #about
+
+- page: books
+  permalink: #books
