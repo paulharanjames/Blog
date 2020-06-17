@@ -1,33 +1,4 @@
----
-id: 131
-title: Tool to find default routed calls
-date: 2013-11-08T10:50:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=131
-permalink: /2013/11/08/tool-to-find-default-routed-calls/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2013/11/tool-to-find-default-routed-calls.html
-  - /2013/11/tool-to-find-default-routed-calls.html
-dsq_thread_id:
-  - "2669988315"
-  - "2669988315"
-categories:
-  - Genesys
-  - Tools
-tags:
-  - Default Routing
-  - Platform SDK
-  - Troubleshooting
-  - URS
----
+
 In our environment, I found that everyday we were having small percentage of calls getting default routed. But how do you find these calls, identify issues and provide better customer service? 
 
 My search for existing tool was in vain and decided to develop it on my own (Genesys Platform SDK makes it easy to develop it too). What I want from this tool is 

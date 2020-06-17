@@ -1,28 +1,3 @@
----
-id: 211
-title: How to create dump file for process using Dr.Watson utility?
-date: 2013-05-21T13:14:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=211
-permalink: /2013/05/21/how-to-create-dump-file-for-process-using-dr-watson-utility/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2013/05/how-to-create-dump-file-for-process.html
-  - /2013/05/how-to-create-dump-file-for-process.html
-dsq_thread_id:
-  - "3132509083"
-  - "3132509083"
-categories:
-  - Uncategorized
----
- 
 
 This article describes how to create dump file for process using dr.watson utility
 

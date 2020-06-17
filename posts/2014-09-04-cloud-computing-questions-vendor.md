@@ -1,26 +1,4 @@
----
-id: 3551
-title: Cloud Computing Questions for your vendor
-date: 2014-09-04T12:52:56+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=3551
-permalink: /2014/09/04/cloud-computing-questions-vendor/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "2987546232"
-  - "2987546232"
-categories:
-  - Cloud
-  - Whitepaper
-tags:
-  - Cloud
-  - Questions
-  - Vendor Selection
----
+
 Cloud computing is hot topic and many vendors are aggressively selling it to the customer so much so that some of them are selling hosted solution as cloud solution. Refer [Cloud Computing &#8211; What is it?](http://www.lakshmikanth.com/cloud-computing/ "Cloud Computing – What is it?") to understand difference between hosted and cloud solution. If your organisation is to ready to use Cloud based solution, following questions may help you to head start your analysis and shortlisting vendor.
 
 ## Questions for your vendor

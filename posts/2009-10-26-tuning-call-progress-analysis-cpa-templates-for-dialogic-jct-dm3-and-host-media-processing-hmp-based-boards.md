@@ -1,27 +1,4 @@
----
-id: 591
-title: Tuning Call Progress Analysis (CPA) templates for Dialogic® JCT, DM3 and Host Media Processing (HMP)-based boards
-date: 2009-10-26T11:59:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=591
-permalink: /2009/10/26/tuning-call-progress-analysis-cpa-templates-for-dialogic-jct-dm3-and-host-media-processing-hmp-based-boards/
-blogger_blog:
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-blogger_permalink:
-  - /2009/10/tuning-call-progress-analysis-cpa.html
-dsq_thread_id:
-  - "2756703610"
-categories:
-  - Call Progress Analysis
-  - CPA
-  - Dialer (OCS)
-  - Dialogic
-  - OCS
----
+
 ##### Reference: [http://www.dialogic.com/support/helpweb/dxall/tn924.aspx](http://www.dialogic.com/support/helpweb/dxall/tn924.aspx "http://www.dialogic.com/support/helpweb/dxall/tn924.aspx")
 
 **Summary:**  

@@ -1,26 +1,4 @@
----
-id: 4861
-title: Report Abandoned calls in Routing Strategy
-date: 2014-12-23T15:18:29+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=4861
-permalink: /2014/12/23/report-abandoned-calls-routing-strategy/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "3352652739"
-  - "3352652739"
-categories:
-  - Genesys
-  - How to
-  - Routing
-tags:
-  - Customer Experience
-  - Routing
----
+
 Last month, I attended workshop from Genesys and BT  and found an interesting trend. One of the customer shared that they were able to customer satisfaction and revenue by tracking and linking customer journey through multiple channels. For example, if customer selected products online for purchase and initiates call, they were able to link this and able to provide service. Simple and effective strategy.
 
 Linking transactions across multiple channels is very big & interesting topic and will restrict to only voice channels in this post.

@@ -1,26 +1,4 @@
----
-id: 5331
-title: 'Genesys CCPulse &#8211; TotalTime vs TotalAdjustedTime'
-date: 2015-03-06T16:24:28+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=5331
-permalink: /2015/03/06/genesys-ccpulse-totaltime-vs-totaladjustedtime/
-dsq_thread_id:
-  - "3573147423"
-  - "3573147423"
-Delicacy_difficulty:
-  - "1"
-  - "1"
-categories:
-  - Genesys
-  - Reporting
-tags:
-  - CCA
-  - CCPulse
-  - Reporting
----
+
 Have you ever seen 15 minute interval report in CCPulse or Datamart contains more than 900 seconds like below ?
 
 [<img class="aligncenter size-full wp-image-5421" src="http://localhost/newlakshmikanth3/wp-content/uploads/2015/03/937.png" alt="Datamart Screenshot" srcset="http://localhost/newlakshmikanth3/wp-content/uploads/2015/03/937.png 786w, http://localhost/newlakshmikanth3/wp-content/uploads/2015/03/937-300x67.png 300w, http://localhost/newlakshmikanth3/wp-content/uploads/2015/03/937-768x171.png 768w" sizes="(max-width: 786px) 100vw, 786px" />](http://localhost/newlakshmikanth3/wp-content/uploads/2015/03/937.png)

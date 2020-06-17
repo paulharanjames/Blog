@@ -1,27 +1,4 @@
----
-id: 1031
-title: Requirements in Genesys, Cisco and Nortel
-date: 2008-04-30T05:00:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=1031
-permalink: /2008/04/30/requirements-in-genesys-cisco-and-nortel/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2008/04/requirements-in-genesys-cisco-and-nortel.html
-  - /2008/04/requirements-in-genesys-cisco-and-nortel.html
-dsq_thread_id:
-  - "2902040456"
-  - "2902040456"
-categories:
-  - Job Offers
----
+
 All,
 
 I have the following requirements immediately

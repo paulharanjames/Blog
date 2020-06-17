@@ -1,26 +1,4 @@
----
-id: 6661
-title: 'Genesys : How EWT &#8211; Estimate Wait Time is calculated?'
-date: 2016-05-20T12:40:35+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=6661
-permalink: /2016/05/20/genesys-ewt-estimate-wait-time-calculated/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "4843346167"
-  - "4843346167"
-categories:
-  - Genesys
-  - How to
-tags:
-  - Genesys
-  - How to
-  - Routing
----
+
 As we all know, agent can handle calls from multiple queues in Genesys and is tricky to find EWT (Estimate Wait Time) for call during routing. I find that Genesys algorithm to be smart and most appropriate.
 
 ### How it is calculated?

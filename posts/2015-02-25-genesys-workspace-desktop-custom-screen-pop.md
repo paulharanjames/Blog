@@ -1,24 +1,4 @@
----
-id: 5111
-title: 'Genesys Workspace Desktop &#8211; Custom Screen Pop'
-date: 2015-02-25T14:50:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=5111
-permalink: /2015/02/25/genesys-workspace-desktop-custom-screen-pop/
-Delicacy_difficulty:
-  - "1"
-dsq_thread_id:
-  - "3547309028"
-categories:
-  - Genesys
-tags:
-  - Customization
-  - How to
-  - MVVM
-  - Workspace
----
+
 In Jan 2015, I attended Genesys Customer Experience demo center in Frimley, UK and was really impressed with new setup & product capabilities especially Conversation Manager. It was best demonstration from Genesys by some distance and recommend you to request or attend demo from your account Manager. Apart from Converstation Manager & Orchestration Server for cross channel capabilities , Genesys workspace desktop and Speech analytics gained good attention from other members.
 
 Few weeks back,  I was asked to assist in showing custom screen pop using Genesys workspace desktop. Finally, I am able to allocate time and worked on this week. As usual with any new projects, there are challenges as below

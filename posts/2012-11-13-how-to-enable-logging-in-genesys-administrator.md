@@ -1,29 +1,4 @@
----
-id: 261
-title: How to enable logging in Genesys Administrator?
-date: 2012-11-13T10:48:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=261
-permalink: /2012/11/13/how-to-enable-logging-in-genesys-administrator/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2012/11/how-to-enable-logging-in-genesys.html
-  - /2012/11/how-to-enable-logging-in-genesys.html
-dsq_thread_id:
-  - "2703889003"
-  - "2703889003"
-categories:
-  - Genesys
-  - Genesys Administrator
-  - Tips
----
+
  
 
 Genesys Administrator tracing can be enabled by changing the following in the <log4net> section (of Web.Config):

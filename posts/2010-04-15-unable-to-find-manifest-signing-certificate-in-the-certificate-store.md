@@ -1,27 +1,4 @@
----
-id: 541
-title: Unable to find manifest signing certificate in the certificate store
-date: 2010-04-15T09:53:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=541
-permalink: /2010/04/15/unable-to-find-manifest-signing-certificate-in-the-certificate-store/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2010/04/unable-to-find-manifest-signing.html
-  - /2010/04/unable-to-find-manifest-signing.html
-dsq_thread_id:
-  - "3194098561"
-  - "3194098561"
-categories:
-  - Programming
----
+
 While developing Softphone application using VS 2008, I moved a project from one computer to a different one. When I then tried to rebuild the solution I received the following error:
 
 &#8220;Unable to find manifest signing certificate in the certificate store&#8221;

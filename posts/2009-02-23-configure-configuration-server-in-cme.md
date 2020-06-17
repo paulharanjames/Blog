@@ -1,28 +1,4 @@
----
-id: 851
-title: Configure Configuration Server in CME
-date: 2009-02-23T18:39:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=851
-permalink: /2009/02/23/configure-configuration-server-in-cme/
-blogger_blog:
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-blogger_permalink:
-  - /2009/02/configure-configuration-server-in-cme.html
-dsq_thread_id:
-  - "2901901352"
-categories:
-  - CME
-  - Configuration Manager
-  - Configuration Server
-  - Genesys
-  - How to
-  - Management Layer
----
+
 The Configuration Server Application object is preconfigured in the Configuration Database. You need to make the below changes in the Configuration  
 Server Application in CME for Management Layer to control Configuration Server:
 

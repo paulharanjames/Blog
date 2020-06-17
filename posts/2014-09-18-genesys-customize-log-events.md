@@ -1,25 +1,4 @@
----
-id: 4031
-title: 'Genesys &#8211; Customize log events'
-date: 2014-09-18T16:08:48+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=4031
-permalink: /2014/09/18/genesys-customize-log-events/
-dsq_thread_id:
-  - "3030423922"
-  - "3030423922"
-Delicacy_difficulty:
-  - "1"
-  - "1"
-categories:
-  - Genesys
-  - Tips
-tags:
-  - Best Practices
-  - Genesys
----
+
 Do you know that log events can be customized from version 7.6 in Genesys? Wait, what is this &#8216;log event customization&#8217;?
 
 Simple. Genesys allows you to define log level for each log message and you can customize it per application.

@@ -1,21 +1,4 @@
----
-id: 6041
-title: Enable external request on IIS Express
-date: 2015-10-16T13:11:47+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=6041
-permalink: /2015/10/16/enable-external-request-on-iis-express/
-dsq_thread_id:
-  - "4230616283"
-Delicacy_difficulty:
-  - "1"
-dsq_needs_sync:
-  - "1"
-categories:
-  - Genesys
----
+
 I was working on Asp.net MVC application and had to test it from another machine. By default, IIS Express doesn&#8217;t allow remote connections and you will get an error &#8216;Bad Request &#8211; Invalid Host Name&#8217; .In this post, I will explain how to enable external access to IIS express
 
 ## Step 1 : Configure IIS Express

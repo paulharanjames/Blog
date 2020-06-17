@@ -1,29 +1,4 @@
----
-id: 651
-title: Write log using VB6
-date: 2009-09-18T11:03:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=651
-permalink: /2009/09/18/write-log-using-vb6/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2009/09/write-log-using-vb6.html
-  - /2009/09/write-log-using-vb6.html
-dsq_thread_id:
-  - "2806328421"
-  - "2806328421"
-categories:
-  - How to
-  - Logging
-  - Visual Basic 6
----
+
 Function to write log file using Visual Basic 6
 
 Private Sub writeLog(strMessage As String) 

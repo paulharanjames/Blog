@@ -1,27 +1,4 @@
----
-id: 6621
-title: 'Genesys CCPulse &#8211; Display UserData using Custom Stat and Filters'
-date: 2016-04-05T16:03:53+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=6621
-permalink: /2016/04/05/display-userdata-ccpulse/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "4722378810"
-  - "4722378810"
-categories:
-  - CCPulse
-  - Genesys
-tags:
-  - CCPulse
-  - Custom Statistic
-  - Formula
-  - Genesys
----
+
 Previously, I wrote post about <a href="http://www.lakshmikanth.com/genesys-ccpulse-show-user-data/" target="_blank" rel="noopener noreferrer">displaying user data in CCPulse using custom solution</a> and user &#8216;<span class="post-byline"><span class="author publisher-anchor-color"><a href="https://disqus.com/by/moshelezerovitz/" data-action="profile" data-username="moshelezerovitz" data-role="username">Moshe Lezerovitz</a></span></span>&#8216; enquired about displaying user data using CCPulse application only.
 
 I found two options to display user data in CCPulse

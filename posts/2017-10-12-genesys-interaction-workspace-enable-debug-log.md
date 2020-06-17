@@ -1,23 +1,4 @@
----
-id: 7084
-title: 'Genesys Interaction Workspace &#8211; Enable debug log'
-date: 2017-10-12T21:10:17+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=7084
-permalink: /2017/10/12/genesys-interaction-workspace-enable-debug-log/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "6210834675"
-  - "6210834675"
-categories:
-  - Genesys
-  - How to
-  - Tips
----
+
 ## How to enable logging in interaction workspace?
 
 * * *

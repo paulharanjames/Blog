@@ -1,27 +1,4 @@
----
-id: 191
-title: How to find port number of SQL Server instance?
-date: 2013-09-16T14:10:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=191
-permalink: /2013/09/16/how-to-find-port-number-of-sql-server-instance/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2013/09/how-to-find-port-number-of-sql-server.html
-  - /2013/09/how-to-find-port-number-of-sql-server.html
-dsq_thread_id:
-  - "2970650558"
-  - "2970650558"
-categories:
-  - Tips
----
+
 <div dir="ltr" trbidi="on">
   </p> 
   

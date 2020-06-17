@@ -1,27 +1,4 @@
----
-id: 5271
-title: 'Design Patterns &#8211; External Configuration Store Pattern'
-date: 2015-03-05T11:52:01+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=5271
-permalink: /2015/03/05/design-patterns-external-configuration-store-pattern/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "3583212386"
-  - "3583212386"
-categories:
-  - Architecture
-  - Design Patterns
-  - Genesys
-tags:
-  - Architecture
-  - Design Patterns
-  - External Configuration Store
----
+
 In my previous post, I discussed about [&#8216;Runtime Reconfiguration Pattern&#8217; ](http://www.lakshmikanth.com/design-patterns-runtime-reconfiguration-pattern/ "Design Patterns – Runtime Reconfiguration Pattern") and how it can be applied in Genesys environment.It is easy to implement &#8216;Runtime Reconfiguration Pattern&#8217; in Genesys and realize benefits for server applications. For client applications,  I recommend to use &#8216;External Configuration Store&#8217; pattern along with &#8216;Runtime Reconfiguration&#8217; to improve availability and scalability.
 
 ### Problem

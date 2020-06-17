@@ -1,27 +1,4 @@
----
-id: 6831
-title: Exporting a Genesys Routing Strategy
-date: 2016-07-20T10:58:10+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=6831
-permalink: /2016/07/20/exporting-genesys-routing-strategy/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "4999818533"
-  - "4999818533"
-categories:
-  - Genesys
-  - Routing
-  - Tips
-tags:
-  - Genesys
-  - Routing
-  - Tips
----
+
 ### Export Genesys Routing Strategy as Package
 
 * * *

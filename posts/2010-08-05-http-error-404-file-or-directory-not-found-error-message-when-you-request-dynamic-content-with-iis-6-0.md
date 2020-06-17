@@ -1,30 +1,4 @@
----
-id: 461
-title: '&#8220;HTTP Error 404 &#8211; File or Directory not found&#8221; error message when you request dynamic content with IIS 6.0'
-date: 2010-08-05T16:06:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=461
-permalink: /2010/08/05/http-error-404-file-or-directory-not-found-error-message-when-you-request-dynamic-content-with-iis-6-0/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2010/08/error-404-file-or-directory-not-found.html
-  - /2010/08/error-404-file-or-directory-not-found.html
-dsq_thread_id:
-  - "3132624074"
-  - "3132624074"
-categories:
-  - How to
-  - IIS
-  - Resources
-  - Troubleshooting
----
+
 To permit IIS to serve dynamic content, the administrator must unlock this content in the Web service extensions node in IIS Manager. To do this, the administrator must either enable a pre-existing Web service extension or add a new Web service extension.
 
 **Enable a Pre-existing Web Service Extension in IIS 6.0** 

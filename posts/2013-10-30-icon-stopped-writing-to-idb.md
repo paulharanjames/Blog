@@ -1,25 +1,4 @@
----
-id: 171
-title: ICON Stopped writing to IDB
-date: 2013-10-30T16:05:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=171
-permalink: /2013/10/30/icon-stopped-writing-to-idb/
-blogger_blog:
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-blogger_permalink:
-  - /2013/10/icon-stopped-writing-to-idb.html
-dsq_thread_id:
-  - "2970646716"
-categories:
-  - ICON
-  - Issue
-  - SQLite Issue
----
+
 <div dir="ltr" trbidi="on">
   In our environment, ICON stopped writing interaction data to database and noticed following error in interaction server logs</p> 
   

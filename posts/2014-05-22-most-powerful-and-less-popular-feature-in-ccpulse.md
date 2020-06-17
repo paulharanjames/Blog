@@ -1,29 +1,4 @@
----
-id: 2151
-title: 'CCPulse &#8211; Very powerful but less popular feature'
-date: 2014-05-22T09:25:18+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: https://lakshmikanth.azurewebsites.net/?p=2151
-permalink: /2014/05/22/most-powerful-and-less-popular-feature-in-ccpulse/
-dsq_thread_id:
-  - "2704260075"
-  - "2704260075"
-Delicacy_difficulty:
-  - "1"
-  - "1"
-categories:
-  - Genesys
-  - Reporting
-tags:
-  - CCPulse
-  - Genesys
-  - Performance Management Solution
-  - Reporting
-  - Tips
-  - Tricks
----
+
 Do you know that you can use JScript language to build custom statistics in Genesys CCPulse application? In my opinion, this is very powerful feature in CCPulse, allowing to customise basic statistics, integrate with external applications/databases and thus, allowing you to build your own performance management solution.
 
 Instead of making use of this feature, I have seen engineers spending many days in modifying routing strategies and developing reports whereas it as simple task of creating CCPulse templates. This article is to help them to develop custom reports in CCPulse<img class="wlEmoticon wlEmoticon-smile" style="border-style: none;" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/05/wlEmoticon-smile.png" alt="Smile" /> 

@@ -1,35 +1,3 @@
----
-id: 101
-title: Zipper– Log Archiver tool
-date: 2013-11-20T16:42:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=101
-permalink: /2013/11/20/zipper-log-archiver-tool/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2013/11/zipper-log-archiver-tool.html
-  - /2013/11/zipper-log-archiver-tool.html
-dsq_thread_id:
-  - "2669990800"
-  - "2669990800"
-categories:
-  - Genesys
-  - Tools
-tags:
-  - Archiver
-  - Tools
-  - Troubleshooting
-  - Utilities
----
- 
-
 **Zipper** is log archiving utility that compresses and archives application log files. I developed it to use it to archive Genesys application logs but can be used for other application logs, as well. 
 
 **Why we need zipper utility?** 

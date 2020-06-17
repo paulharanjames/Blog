@@ -1,27 +1,4 @@
----
-id: 6181
-title: How to disable trackpad on bootcamp?
-date: 2015-12-30T16:53:09+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=6181
-permalink: /2015/12/30/how-to-disable-trackpad-on-bootcamp/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "4447280390"
-  - "4447280390"
-categories:
-  - How to
-  - Tips
-  - Tools
-tags:
-  - bootcamp
-  - How to
-  - trackpad
----
+
 Recently, I installed windows 10 using bootcamp on Mac pro and want to disable trackpad. In this post, I will explain two possible solutions for this.
 
 ### Solution 1 &#8211; Disable Trackpad Hardware

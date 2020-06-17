@@ -1,27 +1,4 @@
----
-id: 6911
-title: How do I change my own password in Windows 2012 RDP session?
-date: 2016-12-18T22:33:45+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=6911
-permalink: /2016/12/18/change-password-windows-2012-rdp-session/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "5391199213"
-  - "5391199213"
-categories:
-  - How to
-tags:
-  - How to
-  - RDP
-  - Remote Desktop
-  - Tips
-  - Windows
----
+
 We recently migrated our servers to Windows 2012 and it doesn&#8217;t have windows security option to change your password (like in Windows 2008). In this post, I will explain two options to change password in Windows 2012 on RDP session
 
 ## Option 1 : Change password in Remote Desktop Session (RDP)

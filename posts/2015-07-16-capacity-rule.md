@@ -1,25 +1,4 @@
----
-id: 5821
-title: 'Configure agent to handle multiple interactions &#8211; Capacity Rule'
-date: 2015-07-16T14:33:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=5821
-permalink: /2015/07/16/capacity-rule/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "3940292314"
-  - "3940292314"
-categories:
-  - Genesys
-  - How to
-tags:
-  - Capacity Rule
-  - Genesys
----
+
 ### Capacity Rule &#8211; What it is?
 
 * * *

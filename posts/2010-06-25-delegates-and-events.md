@@ -1,26 +1,4 @@
----
-id: 491
-title: Delegates and Events
-date: 2010-06-25T09:29:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=491
-permalink: /2010/06/25/delegates-and-events/
-blogger_blog:
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-blogger_permalink:
-  - /2010/06/delegates-and-events.html
-dsq_thread_id:
-  - "2863925469"
-categories:
-  - How to
-  - Programming
-  - Tips
-  - VB.NET
----
+
 Oh…spent lot of time trying to pass values between Parent and Child forms. It is much needed for my SoftPhone application to keep track of call states across windows. Finally, I was able to achieve it using delegates and events (interesting concepts, though)
 
 **To pass value from Parent (Form1) to Child Form (Form2)**

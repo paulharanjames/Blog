@@ -1,30 +1,4 @@
----
-id: 811
-title: Configuring SQL Server Express 2005 for Remote Access
-date: 2009-03-03T16:04:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=811
-permalink: /2009/03/03/configuring-sql-server-express-2005-for-remote-access/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2009/03/configuring-sql-server-express-2005-for.html
-  - /2009/03/configuring-sql-server-express-2005-for.html
-dsq_thread_id:
-  - "3553049079"
-  - "3553049079"
-categories:
-  - Genesys
-  - Genesys 8.0
-  - Genesys Administrator
-  - SQL Server Express 2005
----
+
 If you are getting errors connecting to SQL Server Express 2005 via remote client software and don&#8217;t have any problem connecting to it from the local machine, this post might be useful to you
 
 If you are getting the error messages listed below, then we might have solution for you 🙂

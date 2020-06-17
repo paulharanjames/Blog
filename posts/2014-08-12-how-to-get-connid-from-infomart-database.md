@@ -1,27 +1,4 @@
----
-id: 2641
-title: 'Genesys Infomart Reporting &#8211; Get ConnID from GIM database'
-date: 2014-08-12T14:43:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=2641
-permalink: /2014/08/12/how-to-get-connid-from-infomart-database/
-dsq_thread_id:
-  - "2923097113"
-  - "2923097113"
-Delicacy_difficulty:
-  - "1"
-  - "1"
-categories:
-  - Genesys
-  - How to
-tags:
-  - Genesys
-  - GIM
-  - ICON
-  - Infomart
----
+
 Recently, I answered question about <a href="http://www.sggu.com/smf/index.php/topic,8465.0.html" target="_blank" rel="noopener noreferrer">&#8216;Conn Id in Infomart?&#8217;</a> in SGGU(www.sggu.com) forum and referred to the link &#8216;<span style="text-decoration: underline;"><a title="Genesys Reporting – Get ConnID from Infomart database" href="http://www.lakshmikanth.com/how-to-get-connid-from-infomart-database/">Link ConnId In Infomart&#8217;.</a> </span> However, requester want to retrieve Conn ID directly from Genesys Infomart. As Conn Id field is stored in decimal format in Infomart database (GIM), it was not useful as T-Server log uses hexadecimal format.
 
 In C#, you can simply call Int64.ToString(&#8220;X&#8221;) to convert integer into hexadecimal format but there were no inbuilt functions within SQL Server. I wrote SQL Server function to convert decimal to hex as below..

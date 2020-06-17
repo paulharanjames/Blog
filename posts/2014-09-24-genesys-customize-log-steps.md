@@ -1,25 +1,4 @@
----
-id: 4111
-title: 'Genesys &#8211; How to customize log events?'
-date: 2014-09-24T21:24:10+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=4111
-permalink: /2014/09/24/genesys-customize-log-steps/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "3050763448"
-  - "3050763448"
-categories:
-  - Genesys
-  - How to
-tags:
-  - Genesys
-  - Log Events
----
+
 In this post, we will see how to customise log events in Genesys environment. For more information about log events customization, refer my last post [here](http://www.lakshmikanth.com/genesys-customize-log-events/ "Genesys – Customize log events")
 
 For this, we will consider URS log event 15-20003 as below

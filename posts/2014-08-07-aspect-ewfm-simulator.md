@@ -1,26 +1,4 @@
----
-id: 2531
-title: 'Genesys GPlus &#8211; Aspect eWFM Simulator'
-date: 2014-08-07T15:22:32+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=2531
-permalink: /2014/08/07/aspect-ewfm-simulator/
-dsq_thread_id:
-  - "2923943926"
-Delicacy_difficulty:
-  - "1"
-categories:
-  - Genesys
-  - Tools
-tags:
-  - Aspect
-  - eWFM
-  - Genesys
-  - GPlus
-  - Simulator
----
+
 In my current project, I am working on integrating Genesys G+ Adapter with Aspect eWFM (Workforce Management solution). We completed internal testing and wrote blog about configuring alarms for GPlus Adapter here (<a title="How to configure alarm conditions for GPlus Adapter?" href="http://lakshmikanth.azurewebsites.net/how-to-configure-alarm-conditions-for-gplus-adapter/" target="_blank" rel="noopener noreferrer">how-to-configure-alarm-conditions-for-gplus-adapter?</a>)
 
 To verify configuration and successful integration, I realized that I need to have RTA Server simulator for the following reasons

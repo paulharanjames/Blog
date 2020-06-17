@@ -1,30 +1,4 @@
----
-id: 951
-title: Avaya CCE and AES Compatability Chart
-date: 2008-11-04T21:04:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=951
-permalink: /2008/11/04/avaya-cce-and-aes-compatability-chart/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2008/11/avaya-cce-and-aes-compatability-chart.html
-  - /2008/11/avaya-cce-and-aes-compatability-chart.html
-dsq_thread_id:
-  - "2970663557"
-  - "2970663557"
-categories:
-  - AES
-  - Avaya
-  - CCE
-  - Compatability Chart
----
+
 Many of you have requested for Avaya CCE and AES Compatability chart through email. Here is the chart for your reference
 
 <table border="1" cellspacing="0" cellpadding="0" width="670">

@@ -1,31 +1,4 @@
----
-id: 2041
-title: Virtual Queues and Clear Target Option
-date: 2014-05-13T10:41:45+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=2041
-permalink: /2014/05/13/virtual-queues-and-clear-target-option/
-dsq_thread_id:
-  - "2681627595"
-  - "2681627595"
-Delicacy_difficulty:
-  - "1"
-  - "1"
-categories:
-  - Genesys
-  - Reporting
-  - Routing
-  - Universal Routing
-tags:
-  - Genesys
-  - How to
-  - Reporting
-  - Routing
-  - Tips
-  - Virtual Queue
----
+
 In this post, we will see what clear target option is and how it impacts call routing and reporting.
 
 **What is Clear target?  

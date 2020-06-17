@@ -1,29 +1,4 @@
----
-id: 361
-title: 'How to: Change an Assembly Name (Visual Basic, C#)'
-date: 2011-06-23T17:03:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=361
-permalink: /2011/06/23/how-to-change-an-assembly-name-visual-basic-c/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2011/06/how-to-change-assembly-name-visual.html
-  - /2011/06/how-to-change-assembly-name-visual.html
-dsq_thread_id:
-  - "3158001092"
-  - "3158001092"
-categories:
-  - How to
-  - Programming
-  - VB.NET
----
+
 The Assembly Name property of an application determines the name that will be used for the compiled application. For example, setting the Assembly Name to &#8220;MyApplication&#8221; for a Windows-based application would result in an executable file named MyApplication.exe. The Assembly Name defaults to the project name; it can be changed on the Application page of the Project Designer.
 
 ### To change the Assembly Name property

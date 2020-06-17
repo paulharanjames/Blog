@@ -1,25 +1,4 @@
----
-id: 6984
-title: 'Genesys URS report_targets : Why is it useful but should not use it?'
-date: 2017-04-25T16:28:50+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=6984
-permalink: /2017/04/25/genesys-urs-report_targets-useful-not-use/
-Delicacy_difficulty:
-  - "1"
-dsq_thread_id:
-  - "5758673020"
-categories:
-  - Genesys
-  - How to
-  - Tips
-tags:
-  - Genesys
-  - How to
-  - Tips
----
+
 In some cases, we want to understand the routing decision by URS, especially if an interaction is queued for multiple targets like agent groups. In this post, you will learn about &#8216;report_targets&#8217; option, how it works and recommended way to use it in production environment.
 
 From version 7.x onwards,  Genesys URS expose routing decision using key value pairs.  If enabled, URS will attach following informatio for each interaction

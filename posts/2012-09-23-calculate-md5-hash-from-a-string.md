@@ -1,29 +1,4 @@
----
-id: 291
-title: Calculate MD5 hash from a string
-date: 2012-09-23T08:43:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=291
-permalink: /2012/09/23/calculate-md5-hash-from-a-string/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2012/09/calculate-md5-hash-from-string.html
-  - /2012/09/calculate-md5-hash-from-string.html
-dsq_thread_id:
-  - "3022025278"
-  - "3022025278"
-categories:
-  - 'C#'
-  - Code Snippet
-  - Tutorial
----
+
 It is a common practice to store passwords in databases using a hash. MD5 (defined in [RFC 1321](http://www.ietf.org/rfc/rfc1321.txt)) is a common hash algorithm, and using it from C# is easy. 
 
 Here’s an implementation of a method that converts a string to an MD5 hash, which is a 32-character string of hexadecimal numbers.

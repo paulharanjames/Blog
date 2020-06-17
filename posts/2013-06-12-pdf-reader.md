@@ -1,28 +1,4 @@
----
-id: 201
-title: PDF Reader
-date: 2013-06-12T16:19:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=201
-permalink: /2013/06/12/pdf-reader/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2013/06/pdf-reader.html
-  - /2013/06/pdf-reader.html
-dsq_thread_id:
-  - "2669957791"
-  - "2669957791"
-categories:
-  - Tools
-  - Utilities
----
+
  
 
 I always wanted to develop my own PDF reader so that I can organize all product manuals inside application, which will make it easy to browse/search with titles.

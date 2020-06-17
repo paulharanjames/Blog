@@ -1,25 +1,4 @@
----
-id: 4401
-title: 'Genesys CCPulse &#8211; Show User Data'
-date: 2014-10-10T12:05:12+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=4401
-permalink: /2014/10/10/genesys-ccpulse-show-user-data/
-dsq_thread_id:
-  - "3102975959"
-  - "3102975959"
-Delicacy_difficulty:
-  - "1"
-  - "1"
-categories:
-  - Genesys
-tags:
-  - CCPulse
-  - Genesys
-  - Reporting
----
+
 In my recent posts, I talked about Genesys CCPulse and its powerful feature (<a title="CCPulse – Very powerful but less popular feature" href="http://www.lakshmikanth.com/most-powerful-and-less-popular-feature-in-ccpulse/" target="_blank" rel="noopener noreferrer">here</a>, <a title="Genesys CCPulse – How to show when agent logged in?" href="http://www.lakshmikanth.com/genesys-ccpulse-logged-in/" target="_blank" rel="noopener noreferrer">here</a> and <a title="Genesys CCPulse – access skill details securely" href="http://www.lakshmikanth.com/genesys-ccpulse-access-skill-details-securely/" target="_blank" rel="noopener noreferrer">here</a>). Continuing the series, I try to answer one of the most wanted feature in CCPulse.
 
 **_&#8220;Is it possible to show user data in CCPulse?&#8221;_**

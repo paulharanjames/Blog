@@ -1,31 +1,4 @@
----
-id: 581
-title: AutoCPA Call Progress test tool
-date: 2009-10-26T12:04:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=581
-permalink: /2009/10/26/autocpa-call-progress-test-tool/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2009/10/autocpa-call-progress-test-tool.html
-  - /2009/10/autocpa-call-progress-test-tool.html
-dsq_thread_id:
-  - "2957245473"
-  - "2957245473"
-categories:
-  - AutoCPA
-  - Call Progress Analysis
-  - CPA
-  - Dialer (OCS)
-  - Dialogic
----
+
 #####  
 
 **Reference: [http://www.dialogic.com/support/helpweb/dxall/iw1365.aspx](http://www.dialogic.com/support/helpweb/dxall/iw1365.aspx "http://www.dialogic.com/support/helpweb/dxall/iw1365.aspx")**

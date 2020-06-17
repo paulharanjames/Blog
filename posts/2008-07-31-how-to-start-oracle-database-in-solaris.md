@@ -1,27 +1,4 @@
----
-id: 1001
-title: How to start Oracle Database in Solaris
-date: 2008-07-31T11:31:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=1001
-permalink: /2008/07/31/how-to-start-oracle-database-in-solaris/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2008/07/how-to-start-oracle-database-in-solaris.html
-  - /2008/07/how-to-start-oracle-database-in-solaris.html
-dsq_thread_id:
-  - "3245245033"
-  - "3245245033"
-categories:
-  - How to
----
+
 # <span>Starting the Oracle Database</span>
 
 Follow the below mentioned steps to start the oracle database

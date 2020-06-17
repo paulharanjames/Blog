@@ -1,27 +1,4 @@
----
-id: 5581
-title: Handling the leap second
-date: 2015-06-23T09:50:46+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=5581
-permalink: /2015/06/23/handling-the-leap-second/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "3871535835"
-  - "3871535835"
-categories:
-  - Genesys
-  - How to
-  - Tips
-tags:
-  - Genesys
-  - Leap Second
-  - Oracle
----
+
 ### Leap Second &#8211; What is it?
 
 * * *

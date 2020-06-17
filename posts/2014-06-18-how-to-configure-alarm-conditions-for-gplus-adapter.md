@@ -1,27 +1,4 @@
----
-id: 2401
-title: 'Genesys GPlus &#8211; How to configure alarm conditions for GPlus Adapter?'
-date: 2014-06-18T14:29:22+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=2401
-permalink: /2014/06/18/how-to-configure-alarm-conditions-for-gplus-adapter/
-dsq_thread_id:
-  - "2775276025"
-  - "2775276025"
-Delicacy_difficulty:
-  - "1"
-  - "1"
-categories:
-  - Genesys
-  - How to
-tags:
-  - Genesys
-  - GPlusAdapter
-  - How to
-  - Tips
----
+
 <span style="color: #000000;">GPlus Adapter for Aspect eWFM supports alarm codes for major errors, so that it can be monitored on SCI or Genesys Administrator. For this feature to work correctly, alarm codes must match up with log event id defined in the alarm condition.</span>
 
 <div style="color: #000000;">

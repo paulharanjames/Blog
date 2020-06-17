@@ -1,28 +1,4 @@
----
-id: 531
-title: Using Log4Net
-date: 2010-04-22T23:28:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=531
-permalink: /2010/04/22/using-log4net/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2010/04/using-log4net.html
-  - /2010/04/using-log4net.html
-dsq_thread_id:
-  - "3856263908"
-  - "3856263908"
-categories:
-  - How to
-  - Programming
----
+
 My search is to find simple way to use Log4Net in .NET application was futile. Finally, I decided to write sample code on my own 🙂
 
 Step 1: Add reference to log4net.dll in your project (Project -> Add Reference -> Browse)  

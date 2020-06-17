@@ -1,24 +1,4 @@
----
-id: 1431
-title: Public Key Authentication–What it is and how to use it?
-date: 2014-03-18T14:12:57+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: https://lakshmikanth.azurewebsites.net/?p=1431
-permalink: /2014/03/18/public-key-authenticationwhat-it-is-and-how-to-use-it/
-dsq_thread_id:
-  - "2789937343"
-  - "2789937343"
-categories:
-  - Security
-  - Tips
-tags:
-  - Security
-  - SFTP
-  - Tips
-  - WinSCP
----
+
 <font size="2" face="Verdana"><strong>What it Public Key Authentication?</strong></font>
 
 <font size="2" face="Verdana">Public Key Authentication (PKA) is more secure way to authenticate to a server than using passwords. Using username/password authentication method, you prove your identity using password but if the server is hacked, an attacker can learn your password. Public Key Authentication solves this problem.</font>

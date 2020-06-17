@@ -1,11 +1,4 @@
----
-id: 3
-title: Privacy Policy
-date: 2020-06-11T09:34:49+01:00
-author: paulharan
-layout: page
-guid: http://localhost/newlakshmikanth3/?page_id=3
----
+
 ## Who we are
 
 Our website address is: http://localhost/newlakshmikanth3.

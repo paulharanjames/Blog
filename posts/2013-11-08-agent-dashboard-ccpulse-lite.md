@@ -1,34 +1,4 @@
----
-id: 121
-title: 'Genesys Pulse &#8211; CCPulse Lite &#8211; Bespoke version'
-date: 2013-11-08T14:57:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=121
-permalink: /2013/11/08/agent-dashboard-ccpulse-lite/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2013/11/your-browser-does-not-support-iframes.html
-  - /2013/11/your-browser-does-not-support-iframes.html
-dsq_thread_id:
-  - "2669992519"
-  - "2669992519"
-Delicacy_difficulty:
-  - "1"
-  - "1"
-categories:
-  - Genesys
-tags:
-  - CCPulse
-  - Dashboard
-  - Genesys
----
+
 <div dir="ltr">
   <div dir="ltr">
     <p>

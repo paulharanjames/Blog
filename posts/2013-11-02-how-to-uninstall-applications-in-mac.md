@@ -1,26 +1,4 @@
----
-id: 141
-title: How to uninstall applications in MAC?
-date: 2013-11-02T10:21:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=141
-permalink: /2013/11/02/how-to-uninstall-applications-in-mac/
-blogger_blog:
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-blogger_permalink:
-  - /2013/11/how-to-uninstall-applications-in-mac.html
-dsq_thread_id:
-  - "3082567193"
-categories:
-  - Tips
-tags:
-  - Mac
-  - Uninstall
----
+
 <div dir="ltr" trbidi="on">
   <div>
     <span></p> 

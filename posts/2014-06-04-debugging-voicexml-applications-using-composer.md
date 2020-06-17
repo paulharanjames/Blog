@@ -1,27 +1,4 @@
----
-id: 2191
-title: Debugging VoiceXML applications using Composer
-date: 2014-06-04T12:14:38+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=2191
-permalink: /2014/06/04/debugging-voicexml-applications-using-composer/
-dsq_thread_id:
-  - "2735731331"
-Delicacy_difficulty:
-  - "1"
-categories:
-  - Genesys
-  - How to
-  - Troubleshooting
-tags:
-  - Composer
-  - Genesys
-  - GVP
-  - How to
-  - Tips
----
+
 Do you know that you can debug voicexml applications using Genesys composer? Composer debugger is integrated with GVP to make test calls, trace calls and debug applications.
 
 ### **Setup your debug session**

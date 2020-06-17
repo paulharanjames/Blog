@@ -1,29 +1,4 @@
----
-id: 1011
-title: Deployment Sequence for Genesys Inbound Voice Solution
-date: 2008-07-30T08:45:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=1011
-permalink: /2008/07/30/deployment-sequence-for-genesys-inbound-voice-solution/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2008/07/deployment-sequence-for-genesys-inbound.html
-  - /2008/07/deployment-sequence-for-genesys-inbound.html
-dsq_thread_id:
-  - "2926156848"
-  - "2926156848"
-categories:
-  - Deployment Sequence
-  - Genesys
-  - Installation
----
+
 I received emails requesting for Genesys deployment sequence for inbound voice solution. As informed to you earlier by email, please find the deployment sequence as below
 
 I prefer manual installation of the components and you may use the wizard to install components from Management layer onwards.

@@ -1,27 +1,4 @@
----
-id: 2771
-title: 'Log archiver tool &#8211; Zipper &#8211; New features'
-date: 2014-08-15T13:59:58+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=2771
-permalink: /2014/08/15/zipper-2-0-log-archiver/
-dsq_thread_id:
-  - "2929592020"
-  - "2929592020"
-Delicacy_difficulty:
-  - "1"
-  - "1"
-categories:
-  - Tools
-  - Utilities
-tags:
-  - Archiver
-  - Tools
-  - Utilities
-  - zipper
----
+
 Last year, I wrote <a title="Zipper– Log Archiver tool" href="http://www.lakshmikanth.com/zipper-log-archiver-tool/" target="_blank" rel="noopener noreferrer">Zipper</a>, a log archiver utility tool to save log files in compressed format (zip). Thanks for all your feedback comments and suggestions for more features.
 
 I picked two common requests from the list, which was as below

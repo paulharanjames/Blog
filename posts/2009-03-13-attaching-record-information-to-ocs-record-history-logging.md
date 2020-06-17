@@ -1,32 +1,4 @@
----
-id: 781
-title: Attaching Record information to OCS Record History logging
-date: 2009-03-13T00:33:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=781
-permalink: /2009/03/13/attaching-record-information-to-ocs-record-history-logging/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2009/03/attaching-record-information-to-ocs.html
-  - /2009/03/attaching-record-information-to-ocs.html
-dsq_thread_id:
-  - "2927831623"
-  - "2927831623"
-categories:
-  - Configuration
-  - Dialer (OCS)
-  - Genesys
-  - How to
-  - OCS
-  - Record History
----
+
 Record History logging provides you with additional reporting options for
 
 calling lists. This logging process does not use database access to write logs;

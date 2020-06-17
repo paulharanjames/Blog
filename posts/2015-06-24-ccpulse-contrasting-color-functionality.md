@@ -1,27 +1,4 @@
----
-id: 5512
-title: 'CCPulse &#8211; Contrasting Color Functionality'
-date: 2015-06-24T12:18:42+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=5512
-permalink: /2015/06/24/ccpulse-contrasting-color-functionality/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "3874727517"
-  - "3874727517"
-categories:
-  - CCPulse
-  - Genesys
-  - Reporting
-tags:
-  - CCPulse
-  - Genesys
-  - Reporting
----
+
 ### CCPulse &#8211; Contrasting Color
 
 * * *

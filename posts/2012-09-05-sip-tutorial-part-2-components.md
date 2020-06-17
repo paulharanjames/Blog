@@ -1,29 +1,4 @@
----
-id: 311
-title: SIP Tutorial Part 2– Components
-date: 2012-09-05T09:09:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=311
-permalink: /2012/09/05/sip-tutorial-part-2-components/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2012/09/sip-tutorial-part-2-components.html
-  - /2012/09/sip-tutorial-part-2-components.html
-dsq_thread_id:
-  - "2858886527"
-  - "2858886527"
-categories:
-  - Session Initiation Protocol
-  - SIP
-  - Tutorial
----
+
 SIP elements are as below
 
 _**User Agent:**_ The user agent resides in every SIP end station. It acts in two roles:

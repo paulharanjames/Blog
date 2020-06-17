@@ -1,24 +1,4 @@
----
-id: 4521
-title: User experience
-date: 2014-10-28T14:19:16+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=4521
-permalink: /2014/10/28/user-experience/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "3168514493"
-  - "3168514493"
-categories:
-  - User Interface
-tags:
-  - User Interface
-  - UX
----
+
 Currently, <a title="Customer Experience" href="http://en.wikipedia.org/wiki/Customer_experience" target="_blank" rel="noopener noreferrer">Customer Experience </a>(abbreviated as CX) is the buzz word in the industry. In my opinion before embarking customer experience journey, companies should focus on improving user experience of their IT systems.
 
 # What is user experience?

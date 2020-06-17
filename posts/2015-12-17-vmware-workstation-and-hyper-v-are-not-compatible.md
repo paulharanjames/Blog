@@ -1,28 +1,4 @@
----
-id: 6101
-title: VMware Workstation and Hyper-V are not compatible
-date: 2015-12-17T12:34:15+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=6101
-permalink: /2015/12/17/vmware-workstation-and-hyper-v-are-not-compatible/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "4411564411"
-  - "4411564411"
-categories:
-  - How to
-  - Troubleshooting
-  - VMWare
-tags:
-  - Compatability
-  - Hyper-V
-  - Troubleshooting
-  - VMware
----
+
 After I upgraded my workstation to Windows 10,  I am no longer able to power on guest OS on VMware operating system and received error as below
 
 _&#8216;VMware Workstation and Hyper-V are not compatible. Remove the Hyper-V role from the system before running VMware Workstation&#8217;_

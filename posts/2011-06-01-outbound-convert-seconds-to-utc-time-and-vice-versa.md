@@ -1,30 +1,4 @@
----
-id: 391
-title: 'Outbound : Convert seconds to UTC Time and vice versa'
-date: 2011-06-01T15:55:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=391
-permalink: /2011/06/01/outbound-convert-seconds-to-utc-time-and-vice-versa/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2011/06/outbound-convert-seconds-to-utc-time.html
-  - /2011/06/outbound-convert-seconds-to-utc-time.html
-dsq_thread_id:
-  - "2758282366"
-  - "2758282366"
-categories:
-  - Genesys
-  - Genesys outbound
-  - How to
-  - VB.NET
----
+
 To convert date from export file to seconds passed after 01/01/1970 in Genesys format)
 
 <span><em>       Dim sDate As String = &#8220;01/06/2011 16:46:44&#8221;</em></span>  

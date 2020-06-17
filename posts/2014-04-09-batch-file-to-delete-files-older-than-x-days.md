@@ -1,26 +1,4 @@
----
-id: 1711
-title: Batch file to delete files older than X days
-date: 2014-04-09T07:59:27+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=1711
-permalink: /2014/04/09/batch-file-to-delete-files-older-than-x-days/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "2670095873"
-  - "2670095873"
-categories:
-  - How to
-  - Tips
-tags:
-  - How to
-  - Tips
-  - Windows Batch
----
+
 Quite often, we have an requirement to delete old log files and used powershell scripting in my previous project. With this customer, they are still with Windows 2003 and have to use batch file to achieve the same.
 
 <div>

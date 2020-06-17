@@ -1,31 +1,4 @@
----
-id: 771
-title: How to handle Abandoned calls?
-date: 2009-03-24T08:50:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=771
-permalink: /2009/03/24/how-to-handle-abandoned-calls/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2009/03/how-to-handle-abandoned-calls.html
-  - /2009/03/how-to-handle-abandoned-calls.html
-dsq_thread_id:
-  - "2789921053"
-  - "2789921053"
-categories:
-  - Genesys
-  - How to
-  - OnCallAbandoned
-  - strategy
-  - URS
----
+
 Is your customer worried about increasing number of abandoned calls? No worry.. 🙂  
 You can handle the abandoned calls very well in Genesys.  
 All you need to do is pay me some 100,000 £ (lol)..

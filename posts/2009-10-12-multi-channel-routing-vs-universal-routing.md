@@ -1,27 +1,4 @@
----
-id: 601
-title: Multi-channel Routing Vs Universal Routing
-date: 2009-10-12T16:47:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=601
-permalink: /2009/10/12/multi-channel-routing-vs-universal-routing/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2009/10/multi-channel-routing-vs-universal.html
-  - /2009/10/multi-channel-routing-vs-universal.html
-dsq_thread_id:
-  - "3022028244"
-  - "3022028244"
-categories:
-  - Avaya
----
+
 **Multi-channel Routing** sends incoming contacts to unique queues for each channel. For example, there is a separate queue for phone contacts, a queue for e-mail contacts, and a queue for chat or web contacts.  
  **Problem**: With this approach the contact center agents & supervisors still need to investigate and manage the queues separately to deal with customer contacts coming through different channels.
 

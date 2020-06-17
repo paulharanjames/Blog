@@ -1,24 +1,4 @@
----
-id: 4311
-title: 'Genesys CCPulse &#8211; access skill details securely'
-date: 2014-09-26T10:18:51+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=4311
-permalink: /2014/09/26/genesys-ccpulse-access-skill-details-securely/
-dsq_thread_id:
-  - "3055656122"
-Delicacy_difficulty:
-  - "1"
-categories:
-  - Genesys
-  - Reporting
-tags:
-  - CCPulse
-  - Genesys
-  - Reporting
----
+
 In my post about Genesys [CCPulse&#8217;s powerful and least used feature](http://www.lakshmikanth.com/most-powerful-and-less-popular-feature-in-ccpulse/ "CCPulse – Very powerful but less popular feature"), I showed example of using JScript  language to retrieve skill details from Configuration database. One of the reader **Robert** left me comment about accessing skill details securely as database script will expose configuration database username and password.
 
 ## High level data flow

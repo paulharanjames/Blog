@@ -1,29 +1,4 @@
----
-id: 161
-title: Important Icon Alarms
-date: 2013-10-30T16:57:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=161
-permalink: /2013/10/30/important-icon-alarms/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2013/10/important-icon-alarms_30.html
-  - /2013/10/important-icon-alarms_30.html
-dsq_thread_id:
-  - "2756229442"
-  - "2756229442"
-categories:
-  - ICON
-  - Tips
-  - Troubleshooting
----
+
 <div dir="ltr" trbidi="on">
   <p>
     I listed important ICON alarms below to be configured in every environment to reduce data loss for reporting application

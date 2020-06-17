@@ -1,29 +1,4 @@
----
-id: 641
-title: Delete Old log files using VB6
-date: 2009-09-18T11:05:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=641
-permalink: /2009/09/18/delete-old-log-files-using-vb6/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2009/09/delete-old-log-files-using-vb6.html
-  - /2009/09/delete-old-log-files-using-vb6.html
-dsq_thread_id:
-  - "2806328384"
-  - "2806328384"
-categories:
-  - How to
-  - Logging
-  - Visual Basic 6
----
+
 VB6 Snippet to delete old log files
 
 Private Sub deleteOldFiles() 

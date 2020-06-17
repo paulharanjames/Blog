@@ -1,27 +1,4 @@
----
-id: 3681
-title: 'Genesys CCPulse &#8211; How to show when agent logged in?'
-date: 2014-09-10T16:49:29+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=3681
-permalink: /2014/09/10/genesys-ccpulse-logged-in/
-dsq_thread_id:
-  - "3007605356"
-  - "3007605356"
-Delicacy_difficulty:
-  - "1"
-  - "1"
-categories:
-  - Genesys
-  - How to
-tags:
-  - CCPulse
-  - Genesys
-  - How to
-  - Reporting
----
+
 Few months ago, I wrote an post about Genesys CCPulse powerful feature ([Read here](http://www.lakshmikanth.com/most-powerful-and-less-popular-feature-in-ccpulse/ "CCPulse – Very powerful but less popular feature")) and explained how JScript language can be used to show various other details within CCPulse. Last week, I had requirement from contact center supervisor to view agent&#8217;s login time i.e.) when they logged in. We needed this information to analyze default routed calls by looking at load on Genesys servers and WAN bandwidth.
 
 In this post, I will explain the steps to show agent&#8217;s logged in time in CCPulse as below

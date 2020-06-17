@@ -1,25 +1,4 @@
----
-id: 5201
-title: 'Design Patterns &#8211; Runtime Reconfiguration Pattern'
-date: 2015-03-04T22:08:19+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=5201
-permalink: /2015/03/04/design-patterns-runtime-reconfiguration-pattern/
-dsq_thread_id:
-  - "3567696347"
-  - "3567696347"
-Delicacy_difficulty:
-  - "1"
-  - "1"
-categories:
-  - Design Patterns
-  - Genesys
-tags:
-  - Design Patterns
-  - Runtime Reconfiguration
----
+
 Currently, I am in the process of design and development of custom server application to generate contact center intraday reports on regular intervals and send it to operations team. As with any other contact center servers, this is critical for business to run their operations. I was working on Microsoft Azure for cloud based services and always want to bring cloud benefits &#8211; however small it is &#8211; to enterprise customers.
 
 One of the main benefit for cloud based solution is &#8216;always on&#8217; and &#8216;Runtime Reconfiguration Pattern&#8217; is used to reduce downtime for this.

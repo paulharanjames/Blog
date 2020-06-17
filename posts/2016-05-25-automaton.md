@@ -1,27 +1,4 @@
----
-id: 6681
-title: 'Automaton &#8211; IT Process Automation'
-date: 2016-05-25T13:54:34+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=6681
-permalink: /2016/05/25/automaton/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "4856601603"
-  - "4856601603"
-categories:
-  - Genesys
-  - How to
-tags:
-  - Automation
-  - Automaton
-  - Genesys
-  - Outbound
----
+
 ## What is Automaton?
 
 * * *

@@ -1,25 +1,4 @@
----
-id: 4951
-title: 'Genesys Customer Care &#8211; Auto follow-up'
-date: 2015-01-07T15:45:11+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=4951
-permalink: /2015/01/07/genesys-customer-care-auto-follow/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "3398832754"
-  - "3398832754"
-categories:
-  - Genesys
-tags:
-  - Auto follow-up process
-  - Customer Care
-  - Genesys
----
+
 Recently, Genesys re-designed their auto follow-up process for customer care tickets. As per new process, follow-up process is triggered whenever Genesys proposes a solution or requests information for an open case as below
 
   * First follow-up &#8211; After 2 business days without response

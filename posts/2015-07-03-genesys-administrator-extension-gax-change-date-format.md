@@ -1,26 +1,4 @@
----
-id: 5711
-title: 'Genesys Administrator Extension (GAX) &#8211; Change Date Format'
-date: 2015-07-03T09:58:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=5711
-permalink: /2015/07/03/genesys-administrator-extension-gax-change-date-format/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "3900793728"
-  - "3900793728"
-categories:
-  - Genesys
-  - Tips
-tags:
-  - GAX
-  - Genesys
-  - Pulse
----
+
 In past few week, I received multiple requests to change date format in Genesys Administrator Extension (GAX).
 
 ### What is GAX?

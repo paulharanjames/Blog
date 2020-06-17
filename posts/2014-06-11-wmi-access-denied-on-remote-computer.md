@@ -1,28 +1,4 @@
----
-id: 2321
-title: 'WMI &#8216;Access Denied &#8216; on remote computer'
-date: 2014-06-11T08:42:55+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=2321
-permalink: /2014/06/11/wmi-access-denied-on-remote-computer/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "2754844824"
-  - "2754844824"
-categories:
-  - How to
-  - Programming
-  - Tips
-tags:
-  - Permission Error
-  - Remote Server Monitor
-  - Troubleshooting
-  - WMI
----
+
 In my current project, I would like to monitor windows 2008 servers remotely and planned to use WMI. While my code worked locally, I got &#8216;Access Denied&#8217; error while trying to access Windows 2008 servers.
 
 Although, I enabled DCOM remote activation, I still received error and close to pulling my hair. Finally, I figured that permissions are not propagated and was set only at root level, causing an issue.

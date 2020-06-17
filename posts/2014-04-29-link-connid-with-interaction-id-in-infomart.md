@@ -1,25 +1,4 @@
----
-id: 1781
-title: Link ‘ConnID’ with Interaction Id in Infomart
-date: 2014-04-29T14:25:04+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: https://lakshmikanth.azurewebsites.net/?p=1781
-permalink: /2014/04/29/link-connid-with-interaction-id-in-infomart/
-dsq_thread_id:
-  - "2670096447"
-  - "2670096447"
-categories:
-  - Genesys
-  - ICON
-  - Infomart
-  - Tips
-tags:
-  - Genesys
-  - ICON
-  - Infomart
----
+
 <font size="3" face="Calibri">In Genesys environment, most of us are still used to track call information using Connection Id (ConnID). However, Genesys Infomart (GIM), core subject areas are linked with interaction id and this post will help you to get interaction id using connid or vice versa.</font>
 
 ### To get interaction id using conn id

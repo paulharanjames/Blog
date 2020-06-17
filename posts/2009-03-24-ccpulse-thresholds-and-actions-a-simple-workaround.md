@@ -1,35 +1,4 @@
----
-id: 741
-title: 'CCpulse Thresholds and Actions &#8211; A simple workaround.'
-date: 2009-03-24T08:54:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=741
-permalink: /2009/03/24/ccpulse-thresholds-and-actions-a-simple-workaround/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2009/03/ccpulse-thresholds-and-actions-simple.html
-  - /2009/03/ccpulse-thresholds-and-actions-simple.html
-dsq_thread_id:
-  - "2720371893"
-  - "2720371893"
-Delicacy_difficulty:
-  - "1"
-  - "1"
-categories:
-  - CCPulse
-  - color change ccpulse
-  - Genesys
-  - How to
-  - Reporting
-  - threshold
----
+
 CCPulse is not as boring as CCplus you know? (Now C++ guys plz dont curse me 🙁 ) Its worth playing around&#8230; We will look at a small example which uses thresholds and actions..
 
 **The requirement is:**  

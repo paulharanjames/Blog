@@ -1,25 +1,4 @@
----
-id: 4681
-title: 'MSSQL Server 2008 &#8211; Reset sa password'
-date: 2014-12-05T23:01:40+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=4681
-permalink: /2014/12/05/mssql-server-2008-reset-sa-password/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "3301824454"
-  - "3301824454"
-categories:
-  - How to
-  - Troubleshooting
-tags:
-  - SQL Server
-  - Troubleshooting
----
+
 In this week, we were implementing PoC environment for voice analytics solution and received VMware image from vendor. After hosting image in our environment, which obviously required server name, IP address and domain changes, they were unable to login into SQL Server 2008 database.
 
 We need to do &#8216;sa&#8217; password reset and followed steps below for the same. Hope this helps.

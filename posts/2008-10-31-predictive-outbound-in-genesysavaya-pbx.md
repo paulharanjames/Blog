@@ -1,30 +1,4 @@
----
-id: 971
-title: Predictive outbound in Genesys(Avaya pbx)
-date: 2008-10-31T12:31:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=971
-permalink: /2008/10/31/predictive-outbound-in-genesysavaya-pbx/
-blogger_blog:
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-blogger_permalink:
-  - /2008/10/predictive-outbound-in-genesysavaya-pbx.html
-dsq_thread_id:
-  - "2724521007"
-categories:
-  - Avaya
-  - Genesys
-  - genesys avaya outbound
-  - Genesys outbound
-  - How to
-  - OCM
-  - Predictive dialing
-  - VDN
----
+
 <span><strong>Intended Audience:</strong></span> If you want to configure outbound in predictive mode in Genesys CTI and Avaya pbx.
 
 <span><strong>Prerequisites</strong></span>: Genesys framework and Outbound solution (OCS and OCM)

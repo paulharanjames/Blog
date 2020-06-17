@@ -1,29 +1,4 @@
----
-id: 911
-title: How to open the second interaction automatically?
-date: 2009-01-19T18:59:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=911
-permalink: /2009/01/19/how-to-open-the-second-interaction-automatically/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2009/01/how-to-open-second-interaction.html
-  - /2009/01/how-to-open-second-interaction.html
-dsq_thread_id:
-  - "2923108745"
-  - "2923108745"
-categories:
-  - GAD
-  - Genesys
-  - Screen pop
----
+
 An interesting problem & solution again..
 
 In Genesys Outbound Dialer solution, if the agent is doing post call work in GAD and receives new outbound interaction, they are not getting any screen POP. Agent has to manually click the phone button to get the customer details.. Very annoying..isn’t it?

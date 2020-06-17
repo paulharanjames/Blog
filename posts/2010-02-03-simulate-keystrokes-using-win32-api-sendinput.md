@@ -1,31 +1,4 @@
----
-id: 551
-title: Simulate Keystrokes using Win32 API (SendInput)?
-date: 2010-02-03T21:59:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=551
-permalink: /2010/02/03/simulate-keystrokes-using-win32-api-sendinput/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2010/02/simulate-keystrokes-using-win32-api.html
-  - /2010/02/simulate-keystrokes-using-win32-api.html
-dsq_thread_id:
-  - "3059868919"
-  - "3059868919"
-categories:
-  - How to
-  - Programming
-  - Resources
-  - VB6
-  - Visual Basic 6
----
+
 Recently, I was modifying the old softphone source code (written in VB6) and encountered error using ‘SendKeys’ function. Sometimes, it sends multiple keystrokes for the same char resulting in application errors. Thought of using WinAPI’s to simulate keystrokes and got this one..works really well…
 
  

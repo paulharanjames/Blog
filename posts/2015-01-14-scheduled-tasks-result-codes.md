@@ -1,25 +1,4 @@
----
-id: 5032
-title: 'Scheduled Tasks &#8211; Result Codes'
-date: 2015-01-14T12:09:09+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=5032
-permalink: /2015/01/14/scheduled-tasks-result-codes/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "3419403838"
-  - "3419403838"
-categories:
-  - How to
-  - Troubleshooting
-tags:
-  - Scheduled Tasks
-  - Windows
----
+
 List of windows scheduled task result codes below
 
   * 0 or 0x0: The operation completed successfully.

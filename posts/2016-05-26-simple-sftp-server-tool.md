@@ -1,27 +1,4 @@
----
-id: 6751
-title: Simple SFTP Server Tool for testing and development
-date: 2016-05-26T18:00:58+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=6751
-permalink: /2016/05/26/simple-sftp-server-tool/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "4858896290"
-  - "4858896290"
-categories:
-  - .NET
-  - How to
-  - Tools
-tags:
-  - How to
-  - SFTP
-  - Tools
----
+
 Here is the simple SFTP Server for lab testing purpose. It is light-weight, simple and easy to use. Like all other tools from me, just unzip and run it in your server or desktop.
 
 ## Getting Started

@@ -1,30 +1,4 @@
----
-id: 611
-title: Add or Remove line numbers in Word Document
-date: 2009-10-12T09:56:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=611
-permalink: /2009/10/12/add-or-remove-line-numbers-in-word-document/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2009/10/add-or-remove-line-numbers-in-word.html
-  - /2009/10/add-or-remove-line-numbers-in-word.html
-dsq_thread_id:
-  - "3216847791"
-  - "3216847791"
-categories:
-  - How to
-  - Microsoft Word
-  - Office 2007
-  - Resources
----
+
 When I was preparing design document using templates, I found that having line number was useful, especially for review.
 
 Struggled a bit to set this using Office 2007, used Microsoft help to get these details…:-)

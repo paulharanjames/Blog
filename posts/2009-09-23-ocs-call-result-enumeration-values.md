@@ -1,33 +1,4 @@
----
-id: 621
-title: OCS Call Result – Enumeration Values
-date: 2009-09-23T16:58:00+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=621
-permalink: /2009/09/23/ocs-call-result-enumeration-values/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2009/09/ocs-call-result-enumeration-values.html
-  - /2009/09/ocs-call-result-enumeration-values.html
-dsq_thread_id:
-  - "2689692029"
-  - "2689692029"
-categories:
-  - Dialer (OCS)
-  - Genesys
-  - OCS
-tags:
-  - Call Results
-  - Genesys
-  - OCS
----
+
 <div align="center">
   <table border="1" cellspacing="0" cellpadding="2" width="699" align="center">
     <tr>

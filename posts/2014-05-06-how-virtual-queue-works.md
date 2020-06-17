@@ -1,27 +1,4 @@
----
-id: 1941
-title: How Virtual Queue works?
-date: 2014-05-06T16:57:48+01:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=1941
-permalink: /2014/05/06/how-virtual-queue-works/
-Delicacy_difficulty:
-  - "1"
-dsq_thread_id:
-  - "2665474637"
-categories:
-  - Genesys
-  - IRD
-  - Reporting
-  - Routing
-tags:
-  - Genesys
-  - Routing
-  - Tips
-  - Virtual Queue
----
+
 ### What is Virtual Queue?
 
 * * *

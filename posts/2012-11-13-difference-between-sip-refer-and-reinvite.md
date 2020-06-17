@@ -1,28 +1,4 @@
----
-id: 251
-title: Difference between SIP REFER and (RE)INVITE
-date: 2012-11-13T15:22:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=251
-permalink: /2012/11/13/difference-between-sip-refer-and-reinvite/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2012/11/difference-between-sip-refer-and.html
-  - /2012/11/difference-between-sip-refer-and.html
-dsq_thread_id:
-  - "2858897034"
-  - "2858897034"
-categories:
-  - SIP
-  - Uncategorized
----
+
 What is this and when it is used? When I started working in SIP environment, it was confusing to me, as well.
 
 But after reading RFC3261, it became clear to me. Simply said, REFER method is used for transferring a call and INVITE is used to change session media information. 

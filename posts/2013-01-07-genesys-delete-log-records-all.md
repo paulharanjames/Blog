@@ -1,34 +1,4 @@
----
-id: 241
-title: 'Genesys &#8211; Deleting Log records from log database'
-date: 2013-01-07T13:57:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=241
-permalink: /2013/01/07/genesys-delete-log-records-all/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2013/01/deleting-log-records-from-log-database.html
-  - /2013/01/deleting-log-records-from-log-database.html
-dsq_thread_id:
-  - "2866424205"
-  - "2866424205"
-Delicacy_difficulty:
-  - "1"
-  - "1"
-categories:
-  - Genesys
-  - Tips
-tags:
-  - Genesys
-  - Log Databas
----
+
 As we all know, Genesys applications can be configured to store log records in database. Unfortunately, there is no automatic maintenance option and have to purge data either manually or schedule script for this.
 
 <h3 dir="ltr">

@@ -1,27 +1,4 @@
----
-id: 6251
-title: VMware Workstation shows network cable unplugged
-date: 2015-12-31T14:25:44+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://www.lakshmikanth.com/?p=6251
-permalink: /2015/12/31/vmware-workstation-shows-network-cable-unplugged/
-Delicacy_difficulty:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "4451387460"
-  - "4451387460"
-categories:
-  - How to
-  - Troubleshooting
-  - VMWare
-tags:
-  - Tips
-  - Troubleshooting
-  - VMware
----
+
 Yesterday, I updated Windows 10 and came across &#8216;VMware workstation and Hyper-V are not compatible&#8217; issue. I had this issue previously and fixed it (Read: <a href="http://www.lakshmikanth.com/vmware-workstation-and-hyper-v-are-not-compatible/" target="_blank" rel="noopener noreferrer">http://www.lakshmikanth.com/vmware-workstation-and-hyper-v-are-not-compatible/</a> for details). Second issue is that all of my virtual machines were showing &#8216;Network Cable Unplugged&#8217; message
 
 ### Network Cable Unplugged

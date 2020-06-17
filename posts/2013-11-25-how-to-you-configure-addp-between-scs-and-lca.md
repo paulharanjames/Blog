@@ -1,30 +1,4 @@
----
-id: 91
-title: How to configure ADDP between SCS and LCA ?
-date: 2013-11-25T16:19:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=91
-permalink: /2013/11/25/how-to-you-configure-addp-between-scs-and-lca/
-blogger_blog:
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-blogger_permalink:
-  - /2013/11/how-to-you-configure-addp-between-scs.html
-dsq_thread_id:
-  - "2671897916"
-Delicacy_difficulty:
-  - "1"
-categories:
-  - Genesys
-tags:
-  - ADDP
-  - LCA
-  - Network Disconnect
-  - SCS
----
+
 <div dir="ltr">
   In our environment, we started experiencing false disconnects and failovers of Genesys components. From analysis, I found that due to increased network activity from other projects, we are experiencing temporary delays and have to reconfigure timeout settings.</p> 
   
