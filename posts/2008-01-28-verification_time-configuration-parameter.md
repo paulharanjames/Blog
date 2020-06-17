@@ -1,31 +1,4 @@
----
-id: 1061
-title: 'verification_time : configuration parameter'
-date: 2008-01-28T10:09:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=1061
-permalink: /2008/01/28/verification_time-configuration-parameter/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2008/01/verificationtime-configuration-parameter.html
-  - /2008/01/verificationtime-configuration-parameter.html
-dsq_thread_id:
-  - "2789922537"
-  - "2789922537"
-categories:
-  - Configuration
-  - Genesys
-  - Routing
-  - URS
-  - verification time
----
+
 <span><strong>&#8220;verification_time&#8221;</strong></span> specifies the amount of time that must elapse to consider the agent as available in Genesys to receive interactions from URS (even when the agent is in available mode in PBX).
 
 For ex, consider the verification time as **15 seconds.**

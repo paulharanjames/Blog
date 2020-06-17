@@ -1,11 +1,4 @@
----
-id: 2
-title: Sample Page
-date: 2020-06-11T09:34:49+01:00
-author: paulharan
-layout: page
-guid: http://localhost/newlakshmikanth3/?page_id=2
----
+
 This is an example page. It&#8217;s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
 
 <blockquote class="wp-block-quote">

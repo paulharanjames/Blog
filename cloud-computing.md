@@ -1,15 +1,4 @@
----
-id: 3411
-title: 'Cloud Computing &#8211; What is it?'
-date: 2014-08-28T12:46:53+01:00
-author: lakshmikanth
-excerpt: |
-layout: page
-guid: http://www.lakshmikanth.com/?page_id=3411
-dsq_thread_id:
-  - "2966624700"
-  - "2966624700"
----
+
 Nowadays, everyone talks about Cloud and Software as a Service (SAAS) but is often paired with inflated expectations and misunderstandings.  Many people still misunderstand &#8216;**hosted&#8217;** solution as &#8216;**cloud&#8217;** solution and in fact, many vendors attracted by lucrative additional revenue are claiming to be &#8216;Cloud&#8217; provider whereas they actually host traditional solution in a virtual platform 🙁
 
 In this post, I will try to explain about Cloud & its characteristics and difference between hosted and cloud environment.

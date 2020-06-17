@@ -1,12 +1,4 @@
----
-id: 3781
-title: Genesys
-date: 2014-09-12T11:10:05+01:00
-author: lakshmikanth
-excerpt: |
-layout: page
-guid: http://www.lakshmikanth.com/?page_id=3781
----
+
 Here is the top posts related to Genesys solution&#8230;:-)
 
 # General

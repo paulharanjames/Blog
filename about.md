@@ -1,15 +1,4 @@
----
-id: 1301
-title: About
-date: 2014-02-25T15:07:06+00:00
-author: lakshmikanth
-excerpt: |
-layout: page
-guid: http://lakshmikanth.azurewebsites.net/?page_id=1301
-dsq_thread_id:
-  - "2669791929"
-  - "2669791929"
----
+
 # Lakshmikanth Balasundaram
 
 * * *

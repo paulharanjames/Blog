@@ -1,27 +1,4 @@
----
-id: 1091
-title: About Avaya Interaction Center (AIC)
-date: 2008-01-28T09:25:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=1091
-permalink: /2008/01/28/about-avaya-interaction-center-aic/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2008/01/about-avaya-interaction-center-aic.html
-  - /2008/01/about-avaya-interaction-center-aic.html
-dsq_thread_id:
-  - "3040620254"
-  - "3040620254"
-categories:
-  - Interaction Center
----
+
 <div>
   Interaction Center is the Avaya Customer Interaction Suite software platform for enterprise class management of multimedia communications: voice, video, email, web chat, and IP telephony.
 </div>

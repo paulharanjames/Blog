@@ -1,12 +1,4 @@
----
-id: 6941
-title: Downloads
-date: 2016-12-28T15:21:13+00:00
-author: lakshmikanth
-excerpt: |
-layout: page
-guid: http://www.lakshmikanth.com/?page_id=6941
----
+
 In this page, I am going to bookmark most of the <span class="me" data-syllable="pre·req·ui·site">prerequisite, required for Genesys installation. I suggest to bookmark this page for your future reference.<br /> </span>
 
 ## .NET Framework Installers

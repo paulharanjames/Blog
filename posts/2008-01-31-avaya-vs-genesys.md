@@ -1,30 +1,4 @@
----
-id: 1041
-title: Avaya Vs Genesys
-date: 2008-01-31T09:20:00+00:00
-author: lakshmikanth
-excerpt: |
-layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=1041
-permalink: /2008/01/31/avaya-vs-genesys/
-blogger_blog:
-  - ccxps.blogspot.com
-  - ccxps.blogspot.com
-blogger_author:
-  - Lakshmikanth
-  - Lakshmikanth
-blogger_permalink:
-  - /2008/01/avaya-vs-genesys.html
-  - /2008/01/avaya-vs-genesys.html
-dsq_thread_id:
-  - "2740552108"
-  - "2740552108"
-categories:
-  - AIC
-  - Avaya
-  - Genesys
-  - Interaction Center
----
+
 Having worked in both Avaya Interaction Center (AIC) and Genesys, I would like to compare them. Please note that these are my personal opinions and you should consider your business needs to select the product.
 
 **EPABX:**
