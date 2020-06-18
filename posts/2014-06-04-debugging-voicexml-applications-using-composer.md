@@ -26,11 +26,23 @@ First you need to setup GVP debugger and then launch configuration. Please follo
 
   1. Right-click on the callflow filename in the Project Explorer and select**Debug as** > **Debug Configurations**.
   2. Expand **Composer** &#8211; **GVP Debugger**.
-  3. Select **New Configuration**. The Debug Configurations dialog box opens.[<img class="aligncenter wp-image-2271 size-full" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-Configuration.png" alt="Debug Configuration" width="798" height="642" srcset="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-Configuration.png 798w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-Configuration-300x241.png 300w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-Configuration-768x618.png 768w" sizes="(max-width: 798px) 100vw, 798px" />](http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-Configuration.png)
+  3. Select **New Configuration**. The Debug Configurations dialog box opens.
+  
+  ![](/wp-content/uploads/2014/06/Debug-Configuration.png)
+  
   4. Name the configuration.
-  5. Click the Create Automatically button to create a new project folder to save the metric traces and VXML pages as the calls are being executed. This folder appears in the Location field. Please note that there is currently no automatic cleanup so the number of files can become large. Clean up the debugging results by deleting the gvp-debug.<timestamp> folders from the Project Explorer. Each gvp-debug.<timestamp> folder corresponds to a single debug call that was made at the time specified by the timestamp.[<img class="aligncenter size-full wp-image-2221" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/DebugConfig1.png" alt="DebugConfig1" width="691" height="512" srcset="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/DebugConfig1.png 691w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/DebugConfig1-300x222.png 300w" sizes="(max-width: 691px) 100vw, 691px" />](http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/DebugConfig1.png)
-  6. Click the SIP Phone Settings tab and provide your SIP Phone information if not already there from GVP Debugger Preferences[<img class="aligncenter wp-image-2301 size-full" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-SIP.png" alt="Debug SIP" width="1197" height="638" srcset="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-SIP.png 1197w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-SIP-300x160.png 300w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-SIP-1024x546.png 1024w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-SIP-768x409.png 768w" sizes="(max-width: 1197px) 100vw, 1197px" />](http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-SIP.png)
-  7. Click the **Application Settings** tab and select **Callflow Diagram[<img class="aligncenter wp-image-2251 size-full" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-App-Options.png" alt="Debug App Options" width="1196" height="638" srcset="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-App-Options.png 1196w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-App-Options-300x160.png 300w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-App-Options-1024x546.png 1024w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-App-Options-768x410.png 768w" sizes="(max-width: 1196px) 100vw, 1196px" />](http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-App-Options.png)**
+  5. Click the Create Automatically button to create a new project folder to save the metric traces and VXML pages as the calls are being executed. This folder appears in the Location field. Please note that there is currently no automatic cleanup so the number of files can become large. Clean up the debugging results by deleting the gvp-debug.<timestamp> folders from the Project Explorer. Each gvp-debug.<timestamp> folder corresponds to a single debug call that was made at the time specified by the timestamp.
+  
+ ![](/wp-content/uploads/2014/06/DebugConfig1.png) 
+ 
+  6. Click the SIP Phone Settings tab and provide your SIP Phone information if not already there from GVP Debugger Preferences
+  
+  ![](/wp-content/uploads/2014/06/Debug-SIP.png)
+  
+  7. Click the **Application Settings** tab and select **Callflow Diagram**
+  
+  ![](/wp-content/uploads/2014/06/Debug-App-Options.png)
+   
   8. Input variables in a callflow diagram can be initialized in a Debuggercall using the Extra Parameters field in the Debug Configurations >Application Settings tab. The Parameter names should match the &#8220;Input&#8221; variable defined in the [Entry Block](http://docs.genesys.com/Documentation/Composer/8.1.3/Help/EntryBlock#Variables_Property) of the Callflow diagram.
   9. Click **Apply**.
  10. Click **Debug**. This will automatically dial out your SIP Phone.
@@ -47,7 +59,7 @@ Alternatively, once it is setup, you can start a debugging session in the follow
 
 Once the call is initiated, you will see a red box around the block, which indicates where the call is currently paused.
 
-[<img class="aligncenter size-full wp-image-2291" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-Perspective.png" alt="Debug Perspective" width="1592" height="757" srcset="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-Perspective.png 1592w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-Perspective-300x143.png 300w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-Perspective-1024x487.png 1024w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-Perspective-768x365.png 768w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-Perspective-1536x730.png 1536w" sizes="(max-width: 1592px) 100vw, 1592px" />](http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Debug-Perspective.png)
+![](/wp-content/uploads/2014/06/Debug-Perspective.png)
 
 &nbsp;
 
