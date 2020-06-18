@@ -3,39 +3,31 @@ Avaya Contact Center Express is a Microsoft Windows-based software suite that en
 
 Easy to implement and simple to use, Contact Center Express also delivers:
 </p>
-  * <div>
-      Out-of-the-box desktop applications for supervisors
+  *<div>Out-of-the-box desktop applications for supervisors
     </div>   
     </li>
-  * <div>
-      Framework applications, including intelligent routing, interaction data and centralized configuration
+  *<div>Framework applications, including intelligent routing, interaction data and centralized configuration
         </div>   
         </li>   
-  * <div>
-      Outbound preview dialing, either automated or agent-initiated
+  *<div>Outbound preview dialing, either automated or agent-initiated
             </div>    
             </li>            
-  * <div>
-      Powerful application development tools for complete customization and integration
+  *<div>Powerful application development tools for complete customization and integration
                 </div>      
                 </li> 
-  * <div>
-      Simple and fast wizards for desktop screen pops and routing rules
+  *<div>Simple and fast wizards for desktop screen pops and routing rules
                     </div> 
                     </li> 
                     </ul> 
 Contact Center Express products fall into three major categories:   
                     </p> 
-  * <div>
-     Desktop &#8211; Contact Center Express Desktop, Supervisor, Agent, Wallboard, Contact Center Express Reporting and MS CRM Connector
+  *<div>Desktop &#8211; Contact Center Express Desktop, Supervisor, Agent, Wallboard, Contact Center Express Reporting and MS CRM Connector
                         </div>
                         </li>  
-  * <div>
-     Server &#8211; Media Director, Preview Contact Media Store, Email Media Store, Simple Messaging Media Store, MSN Messenger Gateway, AOL Instant Messenger Gateway, Short Message Service Gateway, Web Chat Gateway, License Director, Application Management Service, Configuration Server, XML Server IVR Server, Call Routing Server, Interaction Data Service, Contact Database, SQL Plug-in, Rules Plug-in, SOAP Plug-in, Script Plug-in
+  *<div>Server &#8211; Media Director, Preview Contact Media Store, Email Media Store, Simple Messaging Media Store, MSN Messenger Gateway, AOL Instant Messenger Gateway, Short Message Service Gateway, Web Chat Gateway, License Director, Application Management Service, Configuration Server, XML Server IVR Server, Call Routing Server, Interaction Data Service, Contact Database, SQL Plug-in, Rules Plug-in, SOAP Plug-in, Script Plug-in
                            </div>
                             </li> 
-  * <div>
-     Developer &#8211; Developer
+  *<div>Developer &#8211; Developer
             </div>
              </li> 
               </ul> 
