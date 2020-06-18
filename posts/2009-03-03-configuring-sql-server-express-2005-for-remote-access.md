@@ -28,43 +28,35 @@ If you are getting the error messages listed below, then we might have solution 
     Server does not exist or access denied
   </li>
   <p>
-    </ul> 
-    
+    </ul>    
     <p>
       This issue occurs because SQL Server Express 2005 is not automatically configured for remote access and have to enabled  manually 🙁
-    </p>
-    
+    </p>  
     <p>
       Follow the steps below to enable remote access in SQL Server Express 2005
-    </p>
-    
+    </p>    
     <ol type="1">
-      </p> 
-      
+      </p>   
       <li>
         Enable the TCP/IP protocol using the Surface Area Configuration Utility for remote connections
       </li>
       <p>
-      </p>
-      
+      </p>   
       <li>
         Enable the TCP/IP protocol in the SQL Server Configuration Utility
       </li>
       <p>
-      </p>
-      
+      </p>    
       <li>
         Make sure the SQL Server browser is started
       </li>
       <p>
-      </p>
-      
+      </p>  
       <li>
         Restart the system for changes to take effect
       </li>
       <p>
-        </ol> 
-        
+        </ol>   
         <p>
           If you have any other suggestions, please let me know via comments and will update the post accordingly.
         </p>
