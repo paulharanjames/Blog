@@ -3,8 +3,7 @@ Avaya Contact Center Express is a Microsoft Windows-based software suite that en
 
 Easy to implement and simple to use, Contact Center Express also delivers:
 </p>
-  *<div>Out-of-the-box desktop applications for supervisors
-    </div>   
+  * Out-of-the-box desktop applications for supervisors  
     </li>
   *<div>Framework applications, including intelligent routing, interaction data and centralized configuration
         </div>   
