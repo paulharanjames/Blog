@@ -1,8 +1,7 @@
 
 Genesys Administrator tracing can be enabled by changing the following in the <log4net> section (of Web.Config):
-
-_<log4net>  
-        <appender name="RollingLogFileAppender" type="log4net.Appender.RollingFileAppender">  
+<log4net>  
+      <appender name="RollingLogFileAppender" type="log4net.Appender.RollingFileAppender">  
             <file value="logfile"/>  
             <appendToFile value="true"/>  
             <rollingStyle value="Composite"/>  
