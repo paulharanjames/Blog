@@ -1,6 +1,4 @@
 
- 
-
 Genesys Administrator tracing can be enabled by changing the following in the <log4net> section (of Web.Config):
 
 _<log4net>  
@@ -8,11 +6,11 @@ _<log4net>
             <file value="logfile"/>  
             <appendToFile value="true"/>  
             <rollingStyle value="Composite"/>  
-            <datePattern value="yyyyMMdd"/>  
-            <!-- gst: append following to add .txt to file name:  .\\tx\\t -->
+            <datePattern value="yyyyMMdd"/> 
+          <!-- gst: append following to add .txt to file name:  .\\tx\\t -->
 
   
-            <maxSizeRollBackups value="10"/>  
+ <maxSizeRollBackups value="10"/>  
             <maximumFileSize value="1MB"/>  
             <layout type="log4net.Layout.PatternLayout">  
                 <conversionPattern value="%date [%thread] %-5level %logger [%property{NDC}] - %message%newline"/>  
@@ -21,12 +19,12 @@ _<log4net>
         <!-- gst added -->
 
   
-        <appender name="TraceAppender" type="log4net.Appender.TraceAppender">  
+  <appender name="TraceAppender" type="log4net.Appender.TraceAppender">  
             <layout type="log4net.Layout.PatternLayout">  
-                <!--ConversionPattern value="%d [%t] %-5p %c - %m [%P{InstanceId}]%n" / -->
+         <!--ConversionPattern value="%d [%t] %-5p %c - %m [%P{InstanceId}]%n" / -->
 
   
-                <ConversionPattern value="%message%newline"/>  
+   <ConversionPattern value="%message%newline"/>  
             </layout>  
         </appender>_
 
