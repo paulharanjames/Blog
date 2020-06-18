@@ -1,10 +1,8 @@
 
 Do you know that you can use JScript language to build custom statistics in Genesys CCPulse application? In my opinion, this is very powerful feature in CCPulse, allowing to customise basic statistics, integrate with external applications/databases and thus, allowing you to build your own performance management solution.
 
-Instead of making use of this feature, I have seen engineers spending many days in modifying routing strategies and developing reports whereas it as simple task of creating CCPulse templates. This article is to help them to develop custom reports in CCPulse![](/wp-content/uploads/2014/05/wlEmoticon-smile.png)
-
-<img class="wlEmoticon wlEmoticon-smile" style="border-style: none;" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/05/wlEmoticon-smile.png" alt="Smile" /> 
-
+Instead of making use of this feature, I have seen engineers spending many days in modifying routing strategies and developing reports whereas it as simple task of creating CCPulse templates. This article is to help them to develop custom reports in CCPulse ![](/wp-content/uploads/2014/05/wlEmoticon-smile.png)
+ 
 # Using JScript language
 
 * * *
