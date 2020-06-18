@@ -15,11 +15,8 @@ To access log folder, follow the steps below
   * Holding control key, click on **&#8216;Genesys&#8217;** logo
   * Logo will change to 5 buttons
   * Click **&#8216;Log folder&#8217;** to open logs folder in your system
-
-<div id="attachment_7094" style="width: 368px" class="wp-caption alignleft">
-  <a href="/wp-content/uploads/2017/10/Log-Folder-1.png"><img aria-describedby="caption-attachment-7094" class="size-full wp-image-7094" src="/wp-content/uploads/2017/10/Log-Folder-1.png" alt="Log folder" width="358" height="407" /></a>
   
-  <p id="caption-attachment-7094" class="wp-caption-text">
+![](/wp-content/uploads/2017/10/Log-Folder.png) 
+  <p>
     Log Folder
   </p>
-</div>
