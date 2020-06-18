@@ -3,78 +3,66 @@ The Assembly Name property of an application determines the name that will be us
 
 ### To change the Assembly Name property
 
-
-
 <div>
-  </p> 
-  
+ </p>  
   <ol>
     </p> 
-    
-    <li>
+       <li>
       With a project selected in Solution Explorer, on the Project menu, click Properties.
     </li>
     <p>
     </p>
     
-    <li>
+   <li>
       Click the Application tab.
     </li>
     <p>
     </p>
     
-    <li>
+   <li>
       In the Assembly Name field, type the name for your application.
     </li>
     <p>
       </ol> 
-      
-      <p>
-        </div> 
+         <p>
+     </div> 
         
-        <p>
+   <p>
         </p>
         
-        <table>
-          </p> </p> 
-          
-          <tr>
-            </p> 
-            
+   <table>
+        </p> </p> 
+       <tr>
+            </p>    
             <th>
               <strong>Note</strong>
             </th>
-            
-            <p>
+               <p>
               </tr> 
+                 <p>
+     </p>
               
-              <p>
-              </p>
-              
-              <tr>
-                </p> 
+  <tr>
+              </p> 
                 
-                <td>
+  <td>
                   Although the default value of the Assembly Name is the same as the project name, the two are unrelated; changing the project name does not change the Assembly Name and changing the Assembly Name does not change the project name.
                 </td>
-                
-                <p>
-                  </tr> 
-                  
                   <p>
+                  </tr> 
+                     <p>
                     </tbody> 
                     
-                    <p>
+  <p>
                       </table> 
                       
-                      <p>
+<p>
                         <a href="http://msdn.microsoft.com/en-us/library/f0c12ze9.aspx">http://msdn.microsoft.com/en-us/library/f0c12ze9.aspx</a>
                       </p>
-                      
-                      <p>
+                         <p>
                          
-                      </p>
+   </p>
                       
-                      <p>
+  <p>
                          
-                      </p>
+  </p>
