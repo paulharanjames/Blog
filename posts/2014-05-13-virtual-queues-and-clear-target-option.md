@@ -8,7 +8,7 @@ Clear target sets whether the targets are retained after the interaction moves o
 
 For example, in the strategy below first selection object waits for &#8216;Sales&#8217; agent group for 5 seconds and moves on to &#8216;General&#8217; agent group for 300 seconds.
 
-[<img class="aligncenter wp-image-2031 size-full" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/05/051314_1041_VirtualQueu1.png" alt="051314_1041_VirtualQueu1.png" width="793" height="493" srcset="http://localhost/newlakshmikanth3/wp-content/uploads/2014/05/051314_1041_VirtualQueu1.png 793w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/05/051314_1041_VirtualQueu1-300x187.png 300w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/05/051314_1041_VirtualQueu1-768x477.png 768w" sizes="(max-width: 793px) 100vw, 793px" />](http://localhost/newlakshmikanth3/wp-content/uploads/2014/05/051314_1041_VirtualQueu1.png)
+![](/wp-content/uploads/2014/05/051314_1041_VirtualQueu1.png)
 
   * Agent Group &#8216;Sales&#8217; contains following agents – sales1, sales2, sales3 and uses virtual queue **&#8216;VQ_Sales&#8217;**
   * Agent Group &#8216;General&#8217; contains following agents &#8211; agent1, agent2, agent3 and uses virtual queue **&#8216;VQ_General&#8217;**
