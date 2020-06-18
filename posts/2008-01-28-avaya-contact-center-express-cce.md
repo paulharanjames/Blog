@@ -18,18 +18,19 @@ Easy to implement and simple to use, Contact Center Express also delivers:
                 <li>
  Simple and fast wizards for desktop screen pops and routing rule
 </li> 
+<ul>
   <p>
 Contact Center Express products fall into three major categories:   
                     </p> 
                     <li>
-  *<div>Desktop &#8211; Contact Center Express Desktop, Supervisor, Agent, Wallboard, Contact Center Express Reporting and MS CRM Connector
-                        </div>
+Desktop &#8211; Contact Center Express Desktop, Supervisor, Agent, Wallboard, Contact Center Express Reporting and MS CRM Connector
                         </li>  
-  *<div>Server &#8211; Media Director, Preview Contact Media Store, Email Media Store, Simple Messaging Media Store, MSN Messenger Gateway, AOL Instant Messenger Gateway, Short Message Service Gateway, Web Chat Gateway, License Director, Application Management Service, Configuration Server, XML Server IVR Server, Call Routing Server, Interaction Data Service, Contact Database, SQL Plug-in, Rules Plug-in, SOAP Plug-in, Script Plug-in
-                           </div>
-                            </li> 
-  *<div>Developer &#8211; Developer
-            </div>
+   <li>
+Server &#8211; Media Director, Preview Contact Media Store, Email Media Store, Simple Messaging Media Store, MSN Messenger Gateway, AOL Instant Messenger Gateway, Short Message Service Gateway, Web Chat Gateway, License Director, Application Management Service, Configuration Server, XML Server IVR Server, Call Routing Server, Interaction Data Service, Contact Database, SQL Plug-in, Rules Plug-in, SOAP Plug-in, Script Plug-in
+               </li> 
+   <li>
+Developer &#8211; Developer
+            
              </li> 
               </ul> 
   Source: www.avaya.com
