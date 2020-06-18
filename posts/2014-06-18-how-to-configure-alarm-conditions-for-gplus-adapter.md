@@ -35,8 +35,10 @@
       </li>
       <li>
         Click 
-         ![](/wp-content/uploads/2014/06/NewAC.png)
-      </li>
+            
+  ![](/wp-content/uploads/2014/06/NewAC.png)
+         
+  </li>
       <li>
         On the Configuration tab, enter or modify information as required.
       </li>
@@ -46,8 +48,9 @@
       <li>
         To save the new Alarm Condition and register it in the Configuration Database, do one of the following: <ul>
           <li>
-            Click   
-             ![](/wp-content/uploads/2014/06/SaveAC.png)
+            Click 
+            
+   ![](/wp-content/uploads/2014/06/SaveAC.png)
             
  to continue configuring the Alarm Condition.
           </li>
