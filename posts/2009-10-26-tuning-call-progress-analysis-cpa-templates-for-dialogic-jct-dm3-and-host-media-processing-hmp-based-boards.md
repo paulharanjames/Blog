@@ -210,4 +210,4 @@ When using a Dialogic® DM3 board, all PVD and PAMD qualification template modif
     Voice API CPA — The Voice API dx\_dial() function performs CPA using a voice resource directly and reports results via the TDX\_CALLP event.  
     Qualification template &#8212; Definitions used by the PAMD and PVD algorithms in detecting voice detection
     
-   [ ](http://www.dialogic.com/support/helpweb/dxall/tn924.aspx "http://www.dialogic.com/support/helpweb/dxall/tn924.aspx")
+   [http://www.dialogic.com/support/helpweb/dxall/tn924.aspx](http://www.dialogic.com/support/helpweb/dxall/tn924.aspx "http://www.dialogic.com/support/helpweb/dxall/tn924.aspx")
