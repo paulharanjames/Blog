@@ -18,7 +18,7 @@ Easy to implement and simple to use, Contact Center Express also delivers:
                 <li>
  Simple and fast wizards for desktop screen pops and routing rule
 </li> 
-<ul>
+
   <p>
 Contact Center Express products fall into three major categories:   
                     </p> 
@@ -30,7 +30,5 @@ Server &#8211; Media Director, Preview Contact Media Store, Email Media Store, S
                </li> 
    <li>
 Developer &#8211; Developer
-            
-             </li> 
-              </ul> 
+            </li> 
   Source: www.avaya.com
