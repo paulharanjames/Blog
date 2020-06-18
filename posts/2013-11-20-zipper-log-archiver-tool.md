@@ -41,7 +41,7 @@ Zipper can be configured to scan log files in multiple directories and easily co
       <a href="http://lh3.ggpht.com/-y4A4gC3h4qo/UozmZJQmr8I/AAAAAAAAAJ4/Epq03TaL4TA/s1600-h/image%25255B19%25255D.png"><img title="image" border="0" alt="image" src="http://lh3.ggpht.com/-EbXYR9_gV14/UozmZiqECDI/AAAAAAAAAKA/WcCGrVMFawo/image_thumb%25255B11%25255D.png?imgmax=800" width="30" height="30" /></a>
     </td>
     
-    <td valign="top" width="564">
+   <td valign="top" width="564">
       <strong>name</strong> – Unique identifier for each directory
     </td>
   </tr>
@@ -51,7 +51,7 @@ Zipper can be configured to scan log files in multiple directories and easily co
       <a href="http://lh4.ggpht.com/-vPyOJAdmdGk/UozmaEzX5GI/AAAAAAAAAKE/QepAwjtp7TM/s1600-h/image%25255B22%25255D.png"><img title="image" border="0" alt="image" src="http://lh3.ggpht.com/-LG6TSCPpn60/Uozmamg4cqI/AAAAAAAAAKQ/vdogegsCiGg/image_thumb%25255B12%25255D.png?imgmax=800" width="34" height="34" /></a>
     </td>
     
-    <td valign="top" width="564">
+   <td valign="top" width="564">
       <strong>sourcedirectory</strong> – Directory path where log files will be available. Zipper application will scan this directory for files
     </td>
   </tr>
@@ -61,7 +61,7 @@ Zipper can be configured to scan log files in multiple directories and easily co
       <a href="http://lh4.ggpht.com/-JfyskWD0778/Uozmbu8trCI/AAAAAAAAAKY/exySB9QA4ks/s1600-h/image%25255B25%25255D.png"><img title="image" border="0" alt="image" src="http://lh4.ggpht.com/-9bnK47b7zI4/UozmcLo3ZLI/AAAAAAAAAKg/4Pd4d85AHJA/image_thumb%25255B13%25255D.png?imgmax=800" width="34" height="35" /></a>
     </td>
     
-    <td valign="top" width="564">
+   <td valign="top" width="564">
       <strong>targetdirectory</strong> – Directory path where log files will be compressed and stored by zipper application
     </td>
   </tr>
@@ -71,7 +71,7 @@ Zipper can be configured to scan log files in multiple directories and easily co
       <a href="http://lh4.ggpht.com/-zmGUWFQVVuc/Uozmcs_FvWI/AAAAAAAAAKk/hhhHD6WhADM/s1600-h/image%25255B28%25255D.png"><img title="image" border="0" alt="image" src="http://lh6.ggpht.com/-aUQi3yLOkcc/UozmdP6FInI/AAAAAAAAAKw/4dzmhoIXb6w/image_thumb%25255B14%25255D.png?imgmax=800" width="34" height="34" /></a>
     </td>
     
-    <td valign="top" width="564">
+   <td valign="top" width="564">
       <strong>filepattern</strong> – Used to define file extensions. For Genesys logs, use “*.log”
     </td>
   </tr>
@@ -81,7 +81,7 @@ Zipper can be configured to scan log files in multiple directories and easily co
       <a href="http://lh3.ggpht.com/-pvVLld7O1XY/Uozme1aTbKI/AAAAAAAAAK4/k6Jck8JwMZU/s1600-h/image%25255B31%25255D.png"><img title="image" border="0" alt="image" src="http://lh4.ggpht.com/-w-IKGFcRYtQ/UozmfUDOjwI/AAAAAAAAALA/NaJMeFnL7VE/image_thumb%25255B15%25255D.png?imgmax=800" width="34" height="34" /></a>
     </td>
     
-    <td valign="top" width="564">
+   <td valign="top" width="564">
       <strong>deleteoriginal</strong> – Setting this option to <strong>‘true’ </strong>will delete log file once it is compressed and archived. <strong>‘false’ </strong>will keep original file in the source directory
     </td>
   </tr>
