@@ -31,7 +31,6 @@ I prefer manual installation of the components and you may use the wizard to ins
   </li>
   <p>
     </ul> 
-    
     <p>
       &#8220;confserv -p
     </p><section name> <password value>&#8220;
