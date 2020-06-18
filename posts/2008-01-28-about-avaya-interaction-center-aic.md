@@ -62,15 +62,6 @@
   <p>
     </div> 
     
-    <p>
-    </p>
-    
-    <div>
-    </div>
-    
-    <p>
-    </p>
-    
     <div>
       Source: http://support.avaya.com
     </div>
