@@ -38,6 +38,10 @@ Yes, as CCPulse+ uses JScript language,  you can easily connect to database to 
 
 * * *
 
+![](/wp-content/uploads/2014/04/image.png)
+
+![](/wp-content/uploads/2014/04/image_thumb.png)
+
 <div style="width: 458px" class="wp-caption aligncenter">
   <a href="http://localhost/newlakshmikanth3/wp-content/uploads/2014/05/image.png"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="image" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/05/image_thumb.png" alt="Agent view with current skill in CCPulse" width="448" height="146" border="0" /></a>
   
