@@ -34,11 +34,8 @@
         If required, navigate to the folder in which you want to store the new Alarm Condition.
       </li>
       <li>
-        Click 
-            
-  ![](/wp-content/uploads/2014/06/NewAC.png)
-         
-  </li>
+        Click ![](/wp-content/uploads/2014/06/NewAC.png)
+         </li>
       <li>
         On the Configuration tab, enter or modify information as required.
       </li>
@@ -48,11 +45,8 @@
       <li>
         To save the new Alarm Condition and register it in the Configuration Database, do one of the following: <ul>
           <li>
-            Click 
-            
-   ![](/wp-content/uploads/2014/06/SaveAC.png)
-            
- to continue configuring the Alarm Condition.
+            Click ![](/wp-content/uploads/2014/06/SaveAC.png)
+            to continue configuring the Alarm Condition.
           </li>
         </ul>
       </li>
