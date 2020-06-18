@@ -25,7 +25,9 @@ For everyone&#8217;s benefit, I listed steps below to configure DCOM and WMI to 
   </ul>
   
   <p>
-    <a href="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Dcom-Properties.png"><img class="aligncenter size-full wp-image-2341" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Dcom-Properties.png" alt="Dcom Properties" width="414" height="564" srcset="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Dcom-Properties.png 414w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Dcom-Properties-220x300.png 220w" sizes="(max-width: 414px) 100vw, 414px" /></a>
+  
+  ![](/wp-content/uploads/2014/06/Dcom-Properties.png)
+  
   </p>
   
   <ul style="color: #000000;">
@@ -90,6 +92,8 @@ For everyone&#8217;s benefit, I listed steps below to configure DCOM and WMI to 
   </ul>
   
   <p>
-    <a href="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Permission-Settings.png"><img class="aligncenter size-full wp-image-2331" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Permission-Settings.png" alt="Permission Settings" width="377" height="481" srcset="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Permission-Settings.png 377w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Permission-Settings-235x300.png 235w" sizes="(max-width: 377px) 100vw, 377px" /></a>
+  
+  ![](/wp-content/uploads/2014/06/Permission-Settings.png)
+  
   </p>
 </div>
