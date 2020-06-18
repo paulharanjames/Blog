@@ -40,149 +40,147 @@ I prefer manual installation of the components and you may use the wizard to ins
   <ul type="disc">
     </p> 
     
-    <li>
+   <li>
       Configuration Manager
     </li>
     <p>
     </p>
     
-    <li>
+   <li>
       Configuration Server Proxy (optional)
     </li>
     <p>
     </p>
     
-    <li>
+   <li>
       Configuration Import Wizard (optional)
     </li>
     <p>
     </p>
     
-    <li>
+   <li>
       Configure Host in Configuration Manager
     </li>
     <p>
       </ul> 
       
-      <p>
-        <strong><span>2. Management Layer</span></strong>
+ <p>
+       <strong><span>2. Management Layer</span></strong>
       </p>
       
-      <ul type="disc">
+   <ul type="disc">
         </p> 
         
-        <li>
+  <li>
           Log DB Server (providing access to the Centralized Log Database)
         </li>
         <p>
         </p>
         
-        <li>
+  <li>
           LogDAP
         </li>
         <p>
         </p>
         
-        <li>
+   <li>
           Message Server
         </li>
         <p>
         </p>
         
-        <li>
+   <li>
           Create and Initialize Centralized Log Database
         </li>
         <p>
         </p>
-        
         <li>
           Local Control Agent
         </li>
         <p>
         </p>
         
-        <li>
+ <li>
           Solution Control Server (SCS)
         </li>
         <p>
         </p>
         
-        <li>
+  <li>
           Solution Control Interface (SCI)
         </li>
         <p>
           </ul> 
           
-          <p>
+  <p>
             To view logs in SCI, you need to set <strong>&#8220;db_storage&#8221;</strong> option in Message server to <strong>&#8220;true&#8221;</strong>
           </p>
           
-          <p>
+  <p>
             Please Install <strong>&#8220;FlexLM License Manager&#8221;</strong> before the Media Layer implementation.
           </p>
           
-          <p>
+   <p>
             <strong> <span>3. Media Layer</span></strong>
           </p>
           
-          <ul type="disc">
+   <ul type="disc">
             </p> 
             
-            <li>
+   <li>
               T-Server
             </li>
             <p>
               </ul> 
               
-              <p>
+   <p>
                 <strong><span>4. Services Layer</span></strong>
               </p>
               
-              <ul type="disc">
+   <ul type="disc">
                 </p> 
                 
-                <li>
+   <li>
                   DB Server
                 </li>
                 <p>
                 </p>
-                
-                <li>
+                 <li>
                   Routing Stat Server
                 </li>
                 <p>
                 </p>
                 
-                <li>
+ <li>
                   Routing Message Server
                 </li>
                 <p>
                 </p>
                 
-                <li>
+ <li>
                   URS
                 </li>
                 <p>
                 </p>
                 
-                <li>
+  <li>
                   IRD (GUI Application to create, load and monitor strategies)
                 </li>
                 <p>
                 </p>
                 
-                <li>
+  <li>
                   Reporting Stat Server
                 </li>
                 <p>
                 </p>
                 
-                <li>
+  <li>
                   CCPulse+ (GUI Application to view real time reports)
                 </li>
                 <p>
                   </ul> 
                   
-                  <p>
+   <p>
                     I haven&#8217;t included historical reporting here, as I feel most of the customers will be migrating for Call Concentrator (CCon) or Interaction Concentrator (ICON)
                   </p>
