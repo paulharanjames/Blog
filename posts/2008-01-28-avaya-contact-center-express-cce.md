@@ -18,10 +18,14 @@ Easy to implement and simple to use, Contact Center Express also delivers:
                 <li>
  Simple and fast wizards for desktop screen pops and routing rule
 </li> 
+
   <p>
-Contact Center Express products fall into three major categories:   
-                    </p> 
-                    <li>
+  
+Contact Center Express products fall into three major categories:  
+  
+  </p> 
+                    
+  <li>
 Desktop &#8211; Contact Center Express Desktop, Supervisor, Agent, Wallboard, Contact Center Express Reporting and MS CRM Connector
                         </li>  
    <li>
