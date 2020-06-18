@@ -122,21 +122,22 @@ When using a Dialogic® DM3 board, all PVD and PAMD qualification template modif
     > 
     > }
     
-    **Note: NumInstances will vary depending on the board in use. In this example, the value reflects a T1 board with 96 channels.** </li> 
+   **Note: NumInstances will vary depending on the board in use. In this example, the value reflects a T1 board with 96 channels.**
+   </li> 
     
-      * Save your changes to the .pcd file and run the fcdgen utility to create an fcd file:  
+   * Save your changes to the .pcd file and run the fcdgen utility to create an fcd file:  
         fcdgen filename.config 
-      * Restart DCM for changes to take effect  
+   * Restart DCM for changes to take effect  
         Please see attached [DM3 Config File](http://www.dialogic.com/support/helpweb/dxall/tn924/ml2_qsa_ni2.config.txt) for complete template changes. </ol> 
     
-    **Host Media Processing (HMP):**  
+   **Host Media Processing (HMP):**  
     When using Dialogic® HMP-based boards (i.e., Dialogic® based on or otherwise incorporating Dialogic® HMP software), all PVD and PAMD qualification template modifications are ONLY available via config files and can NOT be modified without restarting the Dialogic® service. The following steps will be used to modify HMP qualification templates:  
     **Note:** 4r4v4e4c4s4f4i\_hib\_pur pcd/fcd/config file will be used as an example in this procedure. Your pcd/fcd/config file names likely will change based on license and system release used. 
     
-      1. As a precaution, save a backup copy of the fcd, pcd and config files which you will be editing 
-      2. Open the Host&#8217;s PCD file (4r4v4e4c4s4f4i\_hib\_pur.pcd) and search for &#8220;COMP sigdet&#8221; 
-      3. Once you&#8217;ve found this section change the InitOption from YES to NO 
-      4. Also, while here note the NumInstances, you will need to reference this in the config file.  
+   1. As a precaution, save a backup copy of the fcd, pcd and config files which you will be editing 
+   2. Open the Host&#8217;s PCD file (4r4v4e4c4s4f4i\_hib\_pur.pcd) and search for &#8220;COMP sigdet&#8221; 
+   3. Once you&#8217;ve found this section change the InitOption from YES to NO 
+   4. Also, while here note the NumInstances, you will need to reference this in the config file.  
         > [COMP sigdet]  
         > { 
         > 
@@ -198,10 +199,10 @@ When using a Dialogic® DM3 board, all PVD and PAMD qualification template modif
         > PamdDesc rjFbandHigh 0  
         > CreatePamd
     
-     12. Save and exit the config file and run the fcdgen utiltiy to create an fcd file:  fcdgen 4r4v4e4c4s4f4i\_hib\_pur.config 
-     13. Restart the Dialogic HMP services. 
+   12. Save and exit the config file and run the fcdgen utiltiy to create an fcd file:  fcdgen 4r4v4e4c4s4f4i\_hib\_pur.config 
+   13. Restart the Dialogic HMP services. 
     
-    Please see attached config file [HMP Config File](http://www.dialogic.com/support/helpweb/dxall/tn924/4r4v4e4c4s4f4i_hib_pur.config.txt) for completed template changes.  
+   Please see attached config file [HMP Config File](http://www.dialogic.com/support/helpweb/dxall/tn924/4r4v4e4c4s4f4i_hib_pur.config.txt) for completed template changes.  
     **Related Documentation:**  
     It is also recommended to review the application note: [Call Progress Analysis: Global Call API Usage and Protocol Configuration](http://www.dialogic.com/network/csp/appnots/10117_CPA_SR6_HMP2.pdf)  
     **Glossary of Acronyms and Terms:**  
@@ -209,4 +210,4 @@ When using a Dialogic® DM3 board, all PVD and PAMD qualification template modif
     Voice API CPA — The Voice API dx\_dial() function performs CPA using a voice resource directly and reports results via the TDX\_CALLP event.  
     Qualification template &#8212; Definitions used by the PAMD and PVD algorithms in detecting voice detection
     
-    [ ](http://www.dialogic.com/support/helpweb/dxall/tn924.aspx "http://www.dialogic.com/support/helpweb/dxall/tn924.aspx")
+   [ ](http://www.dialogic.com/support/helpweb/dxall/tn924.aspx "http://www.dialogic.com/support/helpweb/dxall/tn924.aspx")
