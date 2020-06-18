@@ -1,111 +1,78 @@
-
+<p>
 Many of you have requested for Avaya CCE and AES Compatability chart through email. Here is the chart for your reference
 
 <table border="1" cellspacing="0" cellpadding="0" width="670">
-  </p> </p> 
+  </p> 
   
   <tr>
-    </p> 
     
-    <td width="294" valign="top">
-    </td>
-    
-    <p>
-    </p>
-    
+   <td width="294" valign="top">
+    </td>  
+    <p> 
     <td width="101">
       </p> 
       
-      <p align="center">
+   <p align="center">
         <strong>CCE 2.0.x</strong><strong></strong>
       </p>
       
-      <p>
-        </td> 
-        
-        <p>
-        </p>
-        
-        <td width="87">
+ <p>
+        </td>   
+  <td width="87">
           </p> 
           
-          <p align="center">
+  <p align="center">
             <strong>CCE 2.1</strong><strong></strong>
           </p>
-          
-          <p>
-            </td> 
-            
             <p>
-            </p>
-            
+            </td>   
             <td width="100">
               </p> 
               
-              <p align="center">
+  <p align="center">
                 <strong>CCE 2.1.1</strong><strong></strong>
               </p>
               
-              <p>
+   <p>
                 </td> 
-                
-                <p>
-                </p>
-                
                 <td width="87">
                   </p> 
                   
-                  <p align="center">
+  <p align="center">
                     <strong>CCE 3.0.x</strong><strong></strong>
                   </p>
                   
-                  <p>
+   <p>
                     </td> 
                     
-                    <p>
-                      </tr> 
-                      
-                      <p>
-                      </p>
-                      
+   <p>
+   </tr>  
                       <tr>
                         </p> 
-                        
-                        <td>
+                         <td>
                           CVCT 3.x to 11.x with CVCT Client
                         </td>
                         
-                        <p>
-                        </p>
-                        
-                        <td>
-                          </p> 
+   <td>
+      </p> 
                           
-                          <p align="center">
-                            Y
-                          </p>
-                          
-                          <p>
+  <p align="center">
+  Y
+   </p>
+     <p>
                             </td> 
                             
-                            <p>
-                            </p>
-                            
-                            <td>
-                              </p> 
+  <td>
+    </p> 
                               
-                              <p align="center">
-                                Y
-                              </p>
-                              
-                              <p>
+ <p align="center">
+      Y
+      </p>
+          <p>
                                 </td> 
                                 
-                                <p>
-                                </p>
-                                
-                                <td>
-                                  </p> 
+  <td>
+    </p> 
                                   
                                   <p align="center">
                                     Y
