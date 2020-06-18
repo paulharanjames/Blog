@@ -3,6 +3,6 @@
 
 The same applies to e-mail interactions also. Emails may get routed literally infinite number of times.
 
-![Stop interaction] (http://www.esnips.com/nsdoc/ca1c5c7d-789e-49aa-b953-7772a1cc887d) 
+[Stop interaction](http://www.esnips.com/nsdoc/ca1c5c7d-789e-49aa-b953-7772a1cc887d) 
 
 <span><strong>Solution:</strong></span> Well, if you encounter this problem, it can be fixed by modifying the routing strategy. Open the routing strategy and wherever there is a &#8220;**stop**&#8221; block, insert a &#8220;**stop interacton**&#8221; block with settings: Check **Notify** and **Delete**. Select option **3rd party server** and in Apllication type choose the **chat server** or email server depending on the type of interaction.
