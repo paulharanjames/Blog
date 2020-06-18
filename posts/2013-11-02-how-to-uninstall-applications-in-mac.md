@@ -3,18 +3,16 @@
   <div>
     <span></p> 
     
-    <p>
+  <p>
       Uninstalling applications in mac is very different than windows. Although, in most cases, simply deleting application to trash, it may leave preferences and application files &#8211; depending on your application, it may be few KB to GB size, you may want to completely remove application and all associated files.</span></div> 
-      
-      <div>
+         <div>
         <span><br /></span>
       </div>
-      
-      <div>
+         <div>
         <span>To manually remove an application and all associated files:</span>
       </div>
       
-      <ul>
+  <ul>
         <li>
           <span>Launch Activity Monitor and change &#8220;My Processes&#8221; at the top to &#8220;All Processes&#8221;, then make sure the app you want to remove is not running. If it is, quit the process before proceeding.</span>
         </li>
@@ -50,21 +48,20 @@
         </li>
       </ul>
       
-      <div>
+  <div>
         <span> </span>
       </div>
       
-      <p>
+   <p>
         <span> </span>
       </p>
       
-      <div>
+   <div>
         <i>Adapted from a forum post by </i><span><i><a href="http://forums.macrumors.com/showpost.php?p=11171082&#038;postcount=16">GGJstudios</a></i></span>
       </div>
-      
-      <div>
+         <div>
         <span><br /></span>
       </div>
       
-      <ul>
+   <ul>
       </ul></div>
