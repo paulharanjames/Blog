@@ -9,19 +9,23 @@ To verify configuration and successful integration, I realized that I need to ha
 
 With little bit of help from Aspect documents and my own analysis to understand Aspect RTA server, I completed development of RTA Simulator.
 
-[<img class="aligncenter wp-image-2541 size-full" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/08/Aspect-RTA-Debugger.png" alt="Aspect RTA Debugger" width="958" height="705" srcset="http://localhost/newlakshmikanth3/wp-content/uploads/2014/08/Aspect-RTA-Debugger.png 958w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/08/Aspect-RTA-Debugger-300x221.png 300w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/08/Aspect-RTA-Debugger-768x565.png 768w" sizes="(max-width: 958px) 100vw, 958px" />](http://localhost/newlakshmikanth3/wp-content/uploads/2014/08/Aspect-RTA-Debugger.png)
-
-[<img class="alignleft wp-image-2581" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/08/1-filled-32.png" alt="1-filled-32" width="24" height="24" />](http://localhost/newlakshmikanth3/wp-content/uploads/2014/08/1-filled-32.png)
+ ![](/wp-content/uploads/2014/08/Aspect-RTA-Debugger.png)
+ 
+ ![](/wp-content/uploads/2014/08/1-filled-32.png)
 
 &nbsp;
 
 Message Packet timestamp &#8211; To identify network disconnects in the environment
 
-[<img class="alignleft wp-image-2591" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/08/2-filled-32.png" alt="2-filled-32" width="24" height="24" />](http://localhost/newlakshmikanth3/wp-content/uploads/2014/08/2-filled-32.png)
+ ![](/wp-content/uploads/2014/08/2-filled-32.png)
 
-Actual message packet &#8211; I parsed message packet to check timestamp , agent state record etc. Clicking &#8216;StateRecordMessage&#8217; shows agent state details as below<a style="font-style: normal;" href="http://localhost/newlakshmikanth3/wp-content/uploads/2014/08/Agent-State-Record-Alone.png"><img class="aligncenter  wp-image-2551" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/08/Agent-State-Record-Alone.png" alt="Agent State Record Alone" width="424" height="310" /></a>
+Actual message packet &#8211; I parsed message packet to check timestamp , agent state record etc. Clicking &#8216;StateRecordMessage&#8217; shows agent state details as below
 
-[<img class="alignleft wp-image-2601" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/08/3-filled-32.png" alt="3-filled-32" width="24" height="24" />](http://localhost/newlakshmikanth3/wp-content/uploads/2014/08/3-filled-32.png)Log message &#8211; For reference, I logged messages into file but needed quick way to check message packet
+ ![](/wp-content/uploads/2014/Agent-State-Record-Alone.png)
+
+ ![](/wp-content/uploads/2014/3-filled-32.png)
+
+Log message &#8211; For reference, I logged messages into file but needed quick way to check message packet
 
 &nbsp;
 
