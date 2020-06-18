@@ -8,11 +8,14 @@
 <font color="#008000" face="Calibri">select&nbsp; id, callid, connid, irid, rootirid from g_call where connid = <strong><em>< your conn id here></em></strong></font>
 
 <font face="Calibri">From the results, take note of rootirid. A call can have multiple conn id due to transfers and column ‘rootirid’ links call records like below</font>
-
-[<img title="clip_image001" style="display: inline" alt="clip_image001" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/04/clip_image001_thumb2.jpg" width="769" height="257" />](http://localhost/newlakshmikanth3/wp-content/uploads/2014/04/clip_image0012.jpg)
+![](/wp-content/uploads/2014/04/clip_image001.jpg)
+![](/wp-content/uploads/2014/04/clip_image001_thumb2.jpg)
+![](/wp-content/uploads/2014/04/clip_image0012.jpg)
 
   * <font face="Calibri">Now, login into Genesys Infomart database and query ‘interaction_fact’ using query below</font>
 
 <font color="#008000" face="Calibri">select * from interaction_fact where media_server_ixn_guid = <strong><em><your root irid here></em></strong></font>
 
-[<img title="image" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="image" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/04/image_thumb.png" width="701" height="316" />](http://localhost/newlakshmikanth3/wp-content/uploads/2014/04/image.png)<font face="Calibri"></font>
+![](/wp-content/uploads/2014/04/image_thumb.png)
+
+![](/wp-content/uploads/2014/04/image.png)
