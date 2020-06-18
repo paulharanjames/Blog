@@ -32,7 +32,7 @@ I prefer manual installation of the components and you may use the wizard to ins
   <p>
     </ul>
     <p>
-      &#8220;confserv -p </p> <section name> <password value>&#8220;
+      &#8220;confserv -p &#8220; </p>
   </p>
   
   <ul type="disc">
