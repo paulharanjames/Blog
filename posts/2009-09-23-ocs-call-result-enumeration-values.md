@@ -6,76 +6,73 @@
         <strong>Call Result</strong>
       </td>
       
-      <td valign="top" width="88">
+  <td valign="top" width="88">
         <strong>Enumeration </strong>
       </td>
       
-      <td valign="top" width="404">
+   <td valign="top" width="404">
         <p align="center">
           <strong>Description</strong>
         </p>
       </td>
     </tr>
     
-    <tr>
+ <tr>
       <td valign="top" width="205">
         <p align="left">
           Abandoned
         </p>
       </td>
-      
-      <td valign="top" width="88">
+          <td valign="top" width="88">
         <p align="center">
           21
         </p>
       </td>
       
-      <td valign="top" width="404">
+   <td valign="top" width="404">
         <p align="left">
           </td> </tr> 
           
-          <tr>
+  <tr>
             <td valign="top" width="205">
               <p align="left">
                 Agent CallBack Error
               </p>
             </td>
             
-            <td valign="top" width="88">
+   <td valign="top" width="88">
               <p align="center">
                 47
               </p>
             </td>
-            
-            <td valign="top" width="404">
+                <td valign="top" width="404">
               <p align="left">
                 </td> </tr> 
-                
-                <tr>
+                    <tr>
                   <td valign="top" width="205">
                     <p align="left">
                       All Trunks Busy
                     </p>
                   </td>
                   
-                  <td valign="top" width="88">
+  <td valign="top" width="88">
                     <p align="center">
                       10
                     </p>
                   </td>
                   
-                  <td valign="top" width="404">
+   <td valign="top" width="404">
                     <p align="left">
                       </td> </tr> 
-                      
-                      <tr>
-                        <td valign="top" width="205">
+                     
+  <tr>
+                       <td valign="top" width="205">
                           <p align="left">
                             Answer
                           </p>
                         </td>
                         
-                        <td valign="top" width="88">
+  <td valign="top" width="88">
                           <p align="center">
                             33
                           </p>
