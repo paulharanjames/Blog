@@ -5,9 +5,9 @@ While developing Softphone application using VS 2008, I moved a project from one
 
 As I was sure that I wasn&#8217;t using any certificate to sign the assembly I couldn&#8217;t understand the reason for this error message. It turned out that I had to manually go into the *.vbproj file and remove the following four lines that were apparently left over from some past experiments with signing using a certificate:
 
-<manifestcertificatethumbprint>&#8230;</manifestcertificatethumbprint>  
-<manifestkeyfile>&#8230;</manifestkeyfile>  
-<generatemanifests>&#8230;</generatemanifests>  
-<signmanifests>&#8230;</signmanifests>
+&#8230; manifestcertificatethumbprint &#8230;
+&#8230; manifestkeyfile &#8230; 
+&#8230; generatemanifests &#8230;  
+&#8230; signmanifests &#8230;
 
 After I had removed those lines I reloaded the project and the solution rebuilt just fine.
