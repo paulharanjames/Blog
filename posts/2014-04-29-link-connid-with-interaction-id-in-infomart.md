@@ -8,6 +8,7 @@
 <font color="#008000" face="Calibri">select&nbsp; id, callid, connid, irid, rootirid from g_call where connid = <strong><em>< your conn id here></em></strong></font>
 
 <font face="Calibri">From the results, take note of rootirid. A call can have multiple conn id due to transfers and column ‘rootirid’ links call records like below</font>
+
 ![](/wp-content/uploads/2014/04/clip_image001.jpg)
 
 ![](/wp-content/uploads/2014/04/clip_image001_thumb2.jpg)
