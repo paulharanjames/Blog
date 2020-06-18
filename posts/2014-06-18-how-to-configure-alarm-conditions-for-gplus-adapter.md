@@ -9,7 +9,9 @@
 </div>
 
 <div style="color: #000000;">
-  <img class="aligncenter size-full wp-image-2421" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/GPlusAdapterOptions.png" alt="GPlusAdapterOptions" width="600" height="564" srcset="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/GPlusAdapterOptions.png 600w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/GPlusAdapterOptions-300x282.png 300w" sizes="(max-width: 600px) 100vw, 600px" />
+  
+  ![](/wp-content/uploads/2014/06/GPlusAdapterOptions.png)
+  
 </div>
 
 <div style="color: #000000;">
@@ -24,7 +26,6 @@
     <p>
       In Genesys Administrator, you can create a new Alarm Condition:
     </p>
-    
     <ol>
       <li>
         Go to Provisioning > Environment > Alarm Conditions.
@@ -33,7 +34,8 @@
         If required, navigate to the folder in which you want to store the new Alarm Condition.
       </li>
       <li>
-        Click  <a href="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/NewAC.png"><img class="alignnone wp-image-2431 size-full" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/NewAC.png" alt="NewAC" width="59" height="20" /></a>
+        Click 
+         ![](/wp-content/uploads/2014/06/NewAC.png)
       </li>
       <li>
         On the Configuration tab, enter or modify information as required.
@@ -44,12 +46,14 @@
       <li>
         To save the new Alarm Condition and register it in the Configuration Database, do one of the following: <ul>
           <li>
-            Click   <a href="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/SaveAC.png"><img class="alignnone wp-image-2441" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/SaveAC.png" alt="SaveAC" width="49" height="20" /></a>to continue configuring the Alarm Condition.
+            Click   
+             ![](/wp-content/uploads/2014/06/SaveAC.png)
+            
+ to continue configuring the Alarm Condition.
           </li>
         </ul>
       </li>
-    </ol>
-    
+    </ol>   
     <div>
       In the screenshot below, I created &#8216;diskWriteFailure&#8217; alarm with log event Id as 9001 and cancel log event id as 9002. You can fine tune this by setting &#8216;Detect Selection Mode&#8217; to &#8216;Select by Application&#8217; and selecting &#8216;GPlusAdapter&#8217; application in &#8216;Detect Application&#8217;.
     </div>
@@ -74,7 +78,9 @@
   </div>
   
   <div>
-    <img class="aligncenter size-full wp-image-2481" src="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Alarm-Condition1.png" alt="Alarm Condition" width="808" height="435" srcset="http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Alarm-Condition1.png 808w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Alarm-Condition1-300x162.png 300w, http://localhost/newlakshmikanth3/wp-content/uploads/2014/06/Alarm-Condition1-768x413.png 768w" sizes="(max-width: 808px) 100vw, 808px" />
+  
+   ![](/wp-content/uploads/2014/06/Alarm-Condition1.png)
+  
   </div>
   
   <div>
