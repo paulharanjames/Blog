@@ -9,7 +9,9 @@
 
 <font face="Calibri">From the results, take note of rootirid. A call can have multiple conn id due to transfers and column ‘rootirid’ links call records like below</font>
 ![](/wp-content/uploads/2014/04/clip_image001.jpg)
+
 ![](/wp-content/uploads/2014/04/clip_image001_thumb2.jpg)
+
 ![](/wp-content/uploads/2014/04/clip_image0012.jpg)
 
   * <font face="Calibri">Now, login into Genesys Infomart database and query ‘interaction_fact’ using query below</font>
