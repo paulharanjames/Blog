@@ -10,9 +10,11 @@ The original PAMD and PVD algorithms take into account variables such as the len
 ****
 
 **Qualification Templates:**  
-The Call Progress Qualification Templates are a set of parameter definitions that control voice and answering machine detection. The same parameters are present in Dialogic® product lines including Springware, DM3, HMP-based boards and control detections regardless of using the DX or GC method. The Qualification Templates are broken down into two sections: PVD and PAMD. Tables 1 and 2 below contain all the parameters for both PVD and PAMD sections as well as the default and recommended values for each parameter. (Note: default values may change with new Service Updates. Always check System Release Update Guide for more information). 
+The Call Progress Qualification Templates are a set of parameter definitions that control voice and answering machine detection. The same parameters are present in Dialogic® product lines including Springware, DM3, HMP-based boards and control detections regardless of using the DX or GC method. The Qualification Templates are broken down into two sections: PVD and PAMD. Tables 1 and 2 below contain all the parameters for both PVD and PAMD sections as well as the default and recommended values for each parameter. (Note: default values may change with new Service Updates. Always check System Release Update Guide for more information).
 
-[<img title="image" border="0" alt="image" src="http://ctiworld.files.wordpress.com/2009/10/image_thumb.png" width="287" height="595" />](http://ctiworld.files.wordpress.com/2009/10/image.png) </p> 
+![](/wp-content/uploads/2014/04/image_thumb.png)
+
+![](/wp-content/uploads/2014/04/image.png) 
 
 **Modifying Qualification Templates Dialogic Springware:**  
 When using a Dialogic® Springware board, PVD and PAMD qualification template modifications are only available via an undocumented API and can be modified without restarting the Dialogic service. In addition, qualification template settings are reset to the defaults each time the Dialogic service is restarted. Thus, it is required that any modifications be done upon application initialization.  
